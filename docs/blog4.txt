@@ -1,0 +1,1650 @@
+Welcome to the English-language Wiktionary, a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.
+Wiktionary has grown beyond a standard dictionary and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the definition of a word, but also enough information to really understand it. Thus etymologies, pronunciations, sample quotations, synonyms, antonyms and translations are included.
+Wiktionary is a wiki, which means that you can edit it, and all the content is dual-licensed under both the Creative Commons Attribution-ShareAlike 3.0 Unported License and the GNU Free Documentation License. Before you contribute, you may wish to read through some of our help pages, and bear in mind that we do things quite differently from other wikis. In particular, we have strict layout conventions and inclusion criteria. Learn how to start a page, how to edit entries, experiment in the sandbox and visit our Community Portal to see how you can participate in the development of Wiktionary.
+Writing star.svg
+
+edit · refresh · view
+Word of the day
+for January 24
+mnemonic n
+0:01
+Something (especially a series of ideas, letters, words, etc.) used to help in remembering a thing; a memory aid.
+(computing) The human-readable, textual form of an assembly language instruction, not including operands.
+(obsolete) Synonym of mnemonics (“the study of techniques for remembering anything more easily”)
+mnemonic adj
+
+Especially of a series of ideas, letters, words, etc.: intended to help in remembering.
+Of or relating to mnemonics (“the study of techniques for remembering anything more easily”).
+Of or relating to memory.
+PointingHand.svg Today is the International Day of Education, which is recognized by the United Nations to emphasize the importance of ensuring equitable and inclusive education at all levels so that people may acquire the knowledge and skills needed to participate fully in society and contribute towards sustainable development.
+
+← yesterday | About Word of the Day • Nominate a word • Leave feedback | tomorrow →
+Wikinews commentary.svg
+Foreign word of the day  in Tuvan
+акы-дуңма • (akı-duñma) noun
+siblings, brothers, sisters
+relatives
+About Foreign Word of the Day • Archive • Nominate a word • Leave feedback
+Notepad icon.png
+
+Behind the scenes
+Community portal
+
+A page containing everything you wanted to know about Wiktionary.
+Discussion rooms
+
+A collection of pages for the discussion of Wiktionary and the words it contains.
+Things to do • Help • Guidelines
+Books-aj.svg aj ashton 01e.svg
+Wiktionaries in other languages
+This is the English-language Wiktionary, where words from all languages are defined in English. For example, see the entry for the French word dictionnaire. To find a French definition of that word, visit the equivalent page in the French Wiktionary.
+
+1,000,000+ entries: 中文 (Chinese) • Français (French) • Deutsch (German) • Malagasy • Русский (Russian)
+
+100,000+: Հայերեն (Armenian) • Català (Catalan) • Čeština (Czech) • Nederlands (Dutch) • Suomi (Finnish) • Ελληνικά (Greek) • Español (Spanish) • Esperanto • Eesti (Estonian) • हिन्दी (Hindi) • Magyar (Hungarian) • Ido • Bahasa Indonesia (Indonesian) • Italiano (Italian) • 日本語 (Japanese) • ಕನ್ನಡ (Kannada) • 한국어 (Korean) • Kurdî / كوردی (Kurdish) • Limburgs (Limburgish) • Lietuvių (Lithuanian) • മലയാളം (Malayalam) • မြန်မာဘာသာ (Burmese) • Norsk Bokmål (Norwegian) • ଓଡ଼ିଆ (Oriya) • فارسى (Persian) • Polski (Polish) • Português (Portuguese) • Română (Romanian) • Srpskohrvatski (Serbo-Croatian) • Svenska (Swedish) • தமிழ் (Tamil) • తెలుగు (Telugu) • ไทย (Thai) • Türkçe (Turkish) • Tiếng Việt (Vietnamese) • Oʻzbekcha / Ўзбекча (Uzbek)
+
+10,000+: Afrikaans • Shqip (Albanian) • العربية (Arabic) • Asturianu (Asturian) • Azərbaycan (Azeri) • Euskara (Basque) • বাংলা (Bengali) • Brezhoneg (Breton) • Български (Bulgarian) • Hrvatski (Croatian) • Dansk (Danish) • Frysk (West Frisian) • Galego (Galician) • ქართული (Georgian) • עברית (Hebrew) • Íslenska (Icelandic) • Basa Jawa (Javanese) • Кыргызча (Kyrgyz) • ລາວ (Lao) • Latina (Latin) • Latviešu (Latvian) • Lombard • Bân-lâm-gú (Min Nan) • ဘာသာမန် (Mon) • Nynorsk (Norwegian) • Occitan • Oromoo (Oromo) • پښتو (Pashto) • ਪੰਜਾਬੀ (Punjabi) • Српски (Serbian) • လိၵ်ႈတႆ (Shan) • Sicilianu (Sicilian) • Simple English • Slovenčina (Slovak) • Kiswahili (Swahili) • Tagalog • Тоҷикӣ (Tajik) • Українська (Ukrainian) • اردو (Urdu) • Volapük • Walon (Walloon) • Cymraeg (Welsh)
+
+1,000+: Armãneashce (Aromanian) • Aymara • Беларуская (Belarusian) • Bosanski (Bosnian) • Bikol • Corsu (Corsican) • Føroyskt (Faroese) • Fiji Hindi • Kalaallisut (Greenlandic) • Avañe'ẽ (Guaraní) • Interlingua • Interlingue • Gaeilge (Irish) • كٲشُر (Kashmiri) • Kaszëbsczi (Kashubian) • қазақша (Kazakh) • ភាសាខ្មែរ (Khmer) • Кыргызча (Kyrgyz) • Lëtzebuergesch (Luxembourgish) • Māori • Plattdüütsch (Low Saxon) • Македонски (Macedonian) • Bahasa Melayu (Malay) • Malti (Maltese) • मराठी (Marathi) • Nahuatl • नेपाली (Nepali) • Li Niha (Nias) • Ænglisc (Old English) • Gàidhlig (Scottish Gaelic) • Tacawit (Shawiya) • سنڌي (Sindhi) • සිංහල (Sinhalese) • Slovenščina (Slovene) • Soomaaliga (Somali) • Hornjoserbsce (Upper Sorbian) • seSotho (Southern Sotho) • Basa Sunda (Sundanese) • Tatarça / Татарча (Tatar) • تركمن / Туркмен (Turkmen) • Uyghurche / ئۇيغۇرچە (Uyghur) • پنجابی (Western Punjabi) • Wollof (Wolof) • isiZulu (Zulu)
+
+100+: አማርኛ (Amharic) • Aragonés (Aragonese) • ᏣᎳᎩ (Cherokee) • Kernewek / Karnuack (Cornish) • ދިވެހިބަސް (Divehi) • ગુજરાતી (Gujarati) • Hausa / هَوُسَ (Hausa) • ʻŌlelo Hawaiʻi (Hawaiian) • ᐃᓄᒃᑎᑐᑦ (Inuktitut) • Ikinyarwanda (Kinyarwanda) • Lingala • Gaelg (Manx) • Монгол (Mongolian) • Runa Simi (Quechua) • Gagana Samoa (Samoan) • Sängö • Setswana • ትግርኛ (Tigrinya) • Tok Pisin • Xitsonga (Tsonga) • ייִדיש (Yiddish)
+
+Meta list + All Wiktionaries
+Other Wikimedia projects
+Wiktionary is run by the Wikimedia Foundation, a non-profit foundation registered in Florida, USA. Wikimedia operates several other multilingual and open-content sister wiki projects:
+
+Wikipedia-logo.png
+Wikipedia
+The free encyclopedia
+
+Wikibooks-logo.png
+Wikibooks
+Free textbooks and manuals
+
+Wikinews-logo.png
+Wikinews
+Free-content news
+
+Wikisource-logo.png
+Wikisource
+The free library
+
+Wikispecies-logo.png
+Wikispecies
+Directory of species
+
+Wikiquote-logo.png
+Wikiquote
+Collection of quotations
+
+Commons-logo.png
+Commons
+Shared media repository
+
+Wikimedia Community Logo.svg
+Meta-Wiki
+Wikimedia project coordination
+
+Wikiversity logo 2017.svg
+Wikiversity
+Free learning resources
+
+Wikivoyage-Logo-v3-icon.svg
+Wikivoyage
+Travel information
+
+Wikidata-logo.svg
+Wikidata
+The free knowledge base
+
+
+Navigation menu
+Not logged in
+Talk
+Contributions
+Preferences
+Create account
+Log in
+Main PageDiscussion
+ReadView sourceHistory
+Search Wiktionary
+Main Page
+Community portal
+Preferences
+Requested entries
+Recent changes
+Random entry
+Help
+Glossary
+Donations
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+MediaWiki
+Meta-Wiki
+Multilingual Wikisource
+Wikispecies
+Wikibooks
+Wikidata
+Wikimania
+Wikinews
+Wikipedia
+Wikiquote
+Wikisource
+Wikiversity
+Wikivoyage
+
+In other languages
+বাংলা
+Català
+Deutsch
+Français
+Հայերեն
+हिन्दी
+Malagasy
+नेपाली
+Русский
+Complete list
+154 more
+Edit links
+If you have time, leave us a note.
+
+This page was last edited on 14 August 2022, at 13:21.
+Text is available under the Creative Commons Attribution-ShareAlike Li
+Welcome to the English-language Wiktionary, a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.
+Wiktionary has grown beyond a standard dictionary and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the definition of a word, but also enough information to really understand it. Thus etymologies, pronunciations, sample quotations, synonyms, antonyms and translations are included.
+Wiktionary is a wiki, which means that you can edit it, and all the content is dual-licensed under both the Creative Commons Attribution-ShareAlike 3.0 Unported License and the GNU Free Documentation License. Before you contribute, you may wish to read through some of our help pages, and bear in mind that we do things quite differently from other wikis. In particular, we have strict layout conventions and inclusion criteria. Learn how to start a page, how to edit entries, experiment in the sandbox and visit our Community Portal to see how you can participate in the development of Wiktionary.
+Writing star.svg
+
+edit · refresh · view
+Word of the day
+for January 24
+mnemonic n
+0:01
+Something (especially a series of ideas, letters, words, etc.) used to help in remembering a thing; a memory aid.
+(computing) The human-readable, textual form of an assembly language instruction, not including operands.
+(obsolete) Synonym of mnemonics (“the study of techniques for remembering anything more easily”)
+mnemonic adj
+
+Especially of a series of ideas, letters, words, etc.: intended to help in remembering.
+Of or relating to mnemonics (“the study of techniques for remembering anything more easily”).
+Of or relating to memory.
+PointingHand.svg Today is the International Day of Education, which is recognized by the United Nations to emphasize the importance of ensuring equitable and inclusive education at all levels so that people may acquire the knowledge and skills needed to participate fully in society and contribute towards sustainable development.
+
+← yesterday | About Word of the Day • Nominate a word • Leave feedback | tomorrow →
+Wikinews commentary.svg
+Foreign word of the day  in Tuvan
+акы-дуңма • (akı-duñma) noun
+siblings, brothers, sisters
+relatives
+About Foreign Word of the Day • Archive • Nominate a word • Leave feedback
+Notepad icon.png
+
+Behind the scenes
+Community portal
+
+A page containing everything you wanted to know about Wiktionary.
+Discussion rooms
+
+A collection of pages for the discussion of Wiktionary and the words it contains.
+Things to do • Help • Guidelines
+Books-aj.svg aj ashton 01e.svg
+Wiktionaries in other languages
+This is the English-language Wiktionary, where words from all languages are defined in English. For example, see the entry for the French word dictionnaire. To find a French definition of that word, visit the equivalent page in the French Wiktionary.
+
+1,000,000+ entries: 中文 (Chinese) • Français (French) • Deutsch (German) • Malagasy • Русский (Russian)
+
+100,000+: Հայերեն (Armenian) • Català (Catalan) • Čeština (Czech) • Nederlands (Dutch) • Suomi (Finnish) • Ελληνικά (Greek) • Español (Spanish) • Esperanto • Eesti (Estonian) • हिन्दी (Hindi) • Magyar (Hungarian) • Ido • Bahasa Indonesia (Indonesian) • Italiano (Italian) • 日本語 (Japanese) • ಕನ್ನಡ (Kannada) • 한국어 (Korean) • Kurdî / كوردی (Kurdish) • Limburgs (Limburgish) • Lietuvių (Lithuanian) • മലയാളം (Malayalam) • မြန်မာဘာသာ (Burmese) • Norsk Bokmål (Norwegian) • ଓଡ଼ିଆ (Oriya) • فارسى (Persian) • Polski (Polish) • Português (Portuguese) • Română (Romanian) • Srpskohrvatski (Serbo-Croatian) • Svenska (Swedish) • தமிழ் (Tamil) • తెలుగు (Telugu) • ไทย (Thai) • Türkçe (Turkish) • Tiếng Việt (Vietnamese) • Oʻzbekcha / Ўзбекча (Uzbek)
+
+10,000+: Afrikaans • Shqip (Albanian) • العربية (Arabic) • Asturianu (Asturian) • Azərbaycan (Azeri) • Euskara (Basque) • বাংলা (Bengali) • Brezhoneg (Breton) • Български (Bulgarian) • Hrvatski (Croatian) • Dansk (Danish) • Frysk (West Frisian) • Galego (Galician) • ქართული (Georgian) • עברית (Hebrew) • Íslenska (Icelandic) • Basa Jawa (Javanese) • Кыргызча (Kyrgyz) • ລາວ (Lao) • Latina (Latin) • Latviešu (Latvian) • Lombard • Bân-lâm-gú (Min Nan) • ဘာသာမန် (Mon) • Nynorsk (Norwegian) • Occitan • Oromoo (Oromo) • پښتو (Pashto) • ਪੰਜਾਬੀ (Punjabi) • Српски (Serbian) • လိၵ်ႈတႆ (Shan) • Sicilianu (Sicilian) • Simple English • Slovenčina (Slovak) • Kiswahili (Swahili) • Tagalog • Тоҷикӣ (Tajik) • Українська (Ukrainian) • اردو (Urdu) • Volapük • Walon (Walloon) • Cymraeg (Welsh)
+
+1,000+: Armãneashce (Aromanian) • Aymara • Беларуская (Belarusian) • Bosanski (Bosnian) • Bikol • Corsu (Corsican) • Føroyskt (Faroese) • Fiji Hindi • Kalaallisut (Greenlandic) • Avañe'ẽ (Guaraní) • Interlingua • Interlingue • Gaeilge (Irish) • كٲشُر (Kashmiri) • Kaszëbsczi (Kashubian) • қазақша (Kazakh) • ភាសាខ្មែរ (Khmer) • Кыргызча (Kyrgyz) • Lëtzebuergesch (Luxembourgish) • Māori • Plattdüütsch (Low Saxon) • Македонски (Macedonian) • Bahasa Melayu (Malay) • Malti (Maltese) • मराठी (Marathi) • Nahuatl • नेपाली (Nepali) • Li Niha (Nias) • Ænglisc (Old English) • Gàidhlig (Scottish Gaelic) • Tacawit (Shawiya) • سنڌي (Sindhi) • සිංහල (Sinhalese) • Slovenščina (Slovene) • Soomaaliga (Somali) • Hornjoserbsce (Upper Sorbian) • seSotho (Southern Sotho) • Basa Sunda (Sundanese) • Tatarça / Татарча (Tatar) • تركمن / Туркмен (Turkmen) • Uyghurche / ئۇيغۇرچە (Uyghur) • پنجابی (Western Punjabi) • Wollof (Wolof) • isiZulu (Zulu)
+
+100+: አማርኛ (Amharic) • Aragonés (Aragonese) • ᏣᎳᎩ (Cherokee) • Kernewek / Karnuack (Cornish) • ދިވެހިބަސް (Divehi) • ગુજરાતી (Gujarati) • Hausa / هَوُسَ (Hausa) • ʻŌlelo Hawaiʻi (Hawaiian) • ᐃᓄᒃᑎᑐᑦ (Inuktitut) • Ikinyarwanda (Kinyarwanda) • Lingala • Gaelg (Manx) • Монгол (Mongolian) • Runa Simi (Quechua) • Gagana Samoa (Samoan) • Sängö • Setswana • ትግርኛ (Tigrinya) • Tok Pisin • Xitsonga (Tsonga) • ייִדיש (Yiddish)
+
+Meta list + All Wiktionaries
+Other Wikimedia projects
+Wiktionary is run by the Wikimedia Foundation, a non-profit foundation registered in Florida, USA. Wikimedia operates several other multilingual and open-content sister wiki projects:
+
+Wikipedia-logo.png
+Wikipedia
+The free encyclopedia
+
+Wikibooks-logo.png
+Wikibooks
+Free textbooks and manuals
+
+Wikinews-logo.png
+Wikinews
+Free-content news
+
+Wikisource-logo.png
+Wikisource
+The free library
+
+Wikispecies-logo.png
+Wikispecies
+Directory of species
+
+Wikiquote-logo.png
+Wikiquote
+Collection of quotations
+
+Commons-logo.png
+Commons
+Shared media repository
+
+Wikimedia Community Logo.svg
+Meta-Wiki
+Wikimedia project coordination
+
+Wikiversity logo 2017.svg
+Wikiversity
+Free learning resources
+
+Wikivoyage-Logo-v3-icon.svg
+Wikivoyage
+Travel information
+
+Wikidata-logo.svg
+Wikidata
+The free knowledge base
+
+
+Navigation menu
+Not logged in
+Talk
+Contributions
+Preferences
+Create account
+Log in
+Main PageDiscussion
+ReadView sourceHistory
+Search Wiktionary
+Main Page
+Community portal
+Preferences
+Requested entries
+Recent changes
+Random entry
+Help
+Glossary
+Donations
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+MediaWiki
+Meta-Wiki
+Multilingual Wikisource
+Wikispecies
+Wikibooks
+Wikidata
+Wikimania
+Wikinews
+Wikipedia
+Wikiquote
+Wikisource
+Wikiversity
+Wikivoyage
+
+In other languages
+বাংলা
+Català
+Deutsch
+Français
+Հայերեն
+हिन्दी
+Malagasy
+नेपाली
+Русский
+Complete list
+154 more
+Edit links
+If you have time, leave us a note.
+
+This page was last edited on 14 August 2022, at 13:21.
+Text is available under the Creative Commons Attribution-ShareAlike Li
+Welcome to the English-language Wiktionary, a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.
+Wiktionary has grown beyond a standard dictionary and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the definition of a word, but also enough information to really understand it. Thus etymologies, pronunciations, sample quotations, synonyms, antonyms and translations are included.
+Wiktionary is a wiki, which means that you can edit it, and all the content is dual-licensed under both the Creative Commons Attribution-ShareAlike 3.0 Unported License and the GNU Free Documentation License. Before you contribute, you may wish to read through some of our help pages, and bear in mind that we do things quite differently from other wikis. In particular, we have strict layout conventions and inclusion criteria. Learn how to start a page, how to edit entries, experiment in the sandbox and visit our Community Portal to see how you can participate in the development of Wiktionary.
+Writing star.svg
+
+edit · refresh · view
+Word of the day
+for January 24
+mnemonic n
+0:01
+Something (especially a series of ideas, letters, words, etc.) used to help in remembering a thing; a memory aid.
+(computing) The human-readable, textual form of an assembly language instruction, not including operands.
+(obsolete) Synonym of mnemonics (“the study of techniques for remembering anything more easily”)
+mnemonic adj
+
+Especially of a series of ideas, letters, words, etc.: intended to help in remembering.
+Of or relating to mnemonics (“the study of techniques for remembering anything more easily”).
+Of or relating to memory.
+PointingHand.svg Today is the International Day of Education, which is recognized by the United Nations to emphasize the importance of ensuring equitable and inclusive education at all levels so that people may acquire the knowledge and skills needed to participate fully in society and contribute towards sustainable development.
+
+← yesterday | About Word of the Day • Nominate a word • Leave feedback | tomorrow →
+Wikinews commentary.svg
+Foreign word of the day  in Tuvan
+акы-дуңма • (akı-duñma) noun
+siblings, brothers, sisters
+relatives
+About Foreign Word of the Day • Archive • Nominate a word • Leave feedback
+Notepad icon.png
+
+Behind the scenes
+Community portal
+
+A page containing everything you wanted to know about Wiktionary.
+Discussion rooms
+
+A collection of pages for the discussion of Wiktionary and the words it contains.
+Things to do • Help • Guidelines
+Books-aj.svg aj ashton 01e.svg
+Wiktionaries in other languages
+This is the English-language Wiktionary, where words from all languages are defined in English. For example, see the entry for the French word dictionnaire. To find a French definition of that word, visit the equivalent page in the French Wiktionary.
+
+1,000,000+ entries: 中文 (Chinese) • Français (French) • Deutsch (German) • Malagasy • Русский (Russian)
+
+100,000+: Հայերեն (Armenian) • Català (Catalan) • Čeština (Czech) • Nederlands (Dutch) • Suomi (Finnish) • Ελληνικά (Greek) • Español (Spanish) • Esperanto • Eesti (Estonian) • हिन्दी (Hindi) • Magyar (Hungarian) • Ido • Bahasa Indonesia (Indonesian) • Italiano (Italian) • 日本語 (Japanese) • ಕನ್ನಡ (Kannada) • 한국어 (Korean) • Kurdî / كوردی (Kurdish) • Limburgs (Limburgish) • Lietuvių (Lithuanian) • മലയാളം (Malayalam) • မြန်မာဘာသာ (Burmese) • Norsk Bokmål (Norwegian) • ଓଡ଼ିଆ (Oriya) • فارسى (Persian) • Polski (Polish) • Português (Portuguese) • Română (Romanian) • Srpskohrvatski (Serbo-Croatian) • Svenska (Swedish) • தமிழ் (Tamil) • తెలుగు (Telugu) • ไทย (Thai) • Türkçe (Turkish) • Tiếng Việt (Vietnamese) • Oʻzbekcha / Ўзбекча (Uzbek)
+
+10,000+: Afrikaans • Shqip (Albanian) • العربية (Arabic) • Asturianu (Asturian) • Azərbaycan (Azeri) • Euskara (Basque) • বাংলা (Bengali) • Brezhoneg (Breton) • Български (Bulgarian) • Hrvatski (Croatian) • Dansk (Danish) • Frysk (West Frisian) • Galego (Galician) • ქართული (Georgian) • עברית (Hebrew) • Íslenska (Icelandic) • Basa Jawa (Javanese) • Кыргызча (Kyrgyz) • ລາວ (Lao) • Latina (Latin) • Latviešu (Latvian) • Lombard • Bân-lâm-gú (Min Nan) • ဘာသာမန် (Mon) • Nynorsk (Norwegian) • Occitan • Oromoo (Oromo) • پښتو (Pashto) • ਪੰਜਾਬੀ (Punjabi) • Српски (Serbian) • လိၵ်ႈတႆ (Shan) • Sicilianu (Sicilian) • Simple English • Slovenčina (Slovak) • Kiswahili (Swahili) • Tagalog • Тоҷикӣ (Tajik) • Українська (Ukrainian) • اردو (Urdu) • Volapük • Walon (Walloon) • Cymraeg (Welsh)
+
+1,000+: Armãneashce (Aromanian) • Aymara • Беларуская (Belarusian) • Bosanski (Bosnian) • Bikol • Corsu (Corsican) • Føroyskt (Faroese) • Fiji Hindi • Kalaallisut (Greenlandic) • Avañe'ẽ (Guaraní) • Interlingua • Interlingue • Gaeilge (Irish) • كٲشُر (Kashmiri) • Kaszëbsczi (Kashubian) • қазақша (Kazakh) • ភាសាខ្មែរ (Khmer) • Кыргызча (Kyrgyz) • Lëtzebuergesch (Luxembourgish) • Māori • Plattdüütsch (Low Saxon) • Македонски (Macedonian) • Bahasa Melayu (Malay) • Malti (Maltese) • मराठी (Marathi) • Nahuatl • नेपाली (Nepali) • Li Niha (Nias) • Ænglisc (Old English) • Gàidhlig (Scottish Gaelic) • Tacawit (Shawiya) • سنڌي (Sindhi) • සිංහල (Sinhalese) • Slovenščina (Slovene) • Soomaaliga (Somali) • Hornjoserbsce (Upper Sorbian) • seSotho (Southern Sotho) • Basa Sunda (Sundanese) • Tatarça / Татарча (Tatar) • تركمن / Туркмен (Turkmen) • Uyghurche / ئۇيغۇرچە (Uyghur) • پنجابی (Western Punjabi) • Wollof (Wolof) • isiZulu (Zulu)
+
+100+: አማርኛ (Amharic) • Aragonés (Aragonese) • ᏣᎳᎩ (Cherokee) • Kernewek / Karnuack (Cornish) • ދިވެހިބަސް (Divehi) • ગુજરાતી (Gujarati) • Hausa / هَوُسَ (Hausa) • ʻŌlelo Hawaiʻi (Hawaiian) • ᐃᓄᒃᑎᑐᑦ (Inuktitut) • Ikinyarwanda (Kinyarwanda) • Lingala • Gaelg (Manx) • Монгол (Mongolian) • Runa Simi (Quechua) • Gagana Samoa (Samoan) • Sängö • Setswana • ትግርኛ (Tigrinya) • Tok Pisin • Xitsonga (Tsonga) • ייִדיש (Yiddish)
+
+Meta list + All Wiktionaries
+Other Wikimedia projects
+Wiktionary is run by the Wikimedia Foundation, a non-profit foundation registered in Florida, USA. Wikimedia operates several other multilingual and open-content sister wiki projects:
+
+Wikipedia-logo.png
+Wikipedia
+The free encyclopedia
+
+Wikibooks-logo.png
+Wikibooks
+Free textbooks and manuals
+
+Wikinews-logo.png
+Wikinews
+Free-content news
+
+Wikisource-logo.png
+Wikisource
+The free library
+
+Wikispecies-logo.png
+Wikispecies
+Directory of species
+
+Wikiquote-logo.png
+Wikiquote
+Collection of quotations
+
+Commons-logo.png
+Commons
+Shared media repository
+
+Wikimedia Community Logo.svg
+Meta-Wiki
+Wikimedia project coordination
+
+Wikiversity logo 2017.svg
+Wikiversity
+Free learning resources
+
+Wikivoyage-Logo-v3-icon.svg
+Wikivoyage
+Travel information
+
+Wikidata-logo.svg
+Wikidata
+The free knowledge base
+
+
+Navigation menu
+Not logged in
+Talk
+Contributions
+Preferences
+Create account
+Log in
+Main PageDiscussion
+ReadView sourceHistory
+Search Wiktionary
+Main Page
+Community portal
+Preferences
+Requested entries
+Recent changes
+Random entry
+Help
+Glossary
+Donations
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+MediaWiki
+Meta-Wiki
+Multilingual Wikisource
+Wikispecies
+Wikibooks
+Wikidata
+Wikimania
+Wikinews
+Wikipedia
+Wikiquote
+Wikisource
+Wikiversity
+Wikivoyage
+
+In other languages
+বাংলা
+Català
+Deutsch
+Français
+Հայերեն
+हिन्दी
+Malagasy
+नेपाली
+Русский
+Complete list
+154 more
+Edit links
+If you have time, leave us a note.
+
+This page was last edited on 14 August 2022, at 13:21.
+Text is available under the Creative Commons Attribution-ShareAlike Li
+Welcome to the English-language Wiktionary, a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.
+Wiktionary has grown beyond a standard dictionary and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the definition of a word, but also enough information to really understand it. Thus etymologies, pronunciations, sample quotations, synonyms, antonyms and translations are included.
+Wiktionary is a wiki, which means that you can edit it, and all the content is dual-licensed under both the Creative Commons Attribution-ShareAlike 3.0 Unported License and the GNU Free Documentation License. Before you contribute, you may wish to read through some of our help pages, and bear in mind that we do things quite differently from other wikis. In particular, we have strict layout conventions and inclusion criteria. Learn how to start a page, how to edit entries, experiment in the sandbox and visit our Community Portal to see how you can participate in the development of Wiktionary.
+Writing star.svg
+
+edit · refresh · view
+Word of the day
+for January 24
+mnemonic n
+0:01
+Something (especially a series of ideas, letters, words, etc.) used to help in remembering a thing; a memory aid.
+(computing) The human-readable, textual form of an assembly language instruction, not including operands.
+(obsolete) Synonym of mnemonics (“the study of techniques for remembering anything more easily”)
+mnemonic adj
+
+Especially of a series of ideas, letters, words, etc.: intended to help in remembering.
+Of or relating to mnemonics (“the study of techniques for remembering anything more easily”).
+Of or relating to memory.
+PointingHand.svg Today is the International Day of Education, which is recognized by the United Nations to emphasize the importance of ensuring equitable and inclusive education at all levels so that people may acquire the knowledge and skills needed to participate fully in society and contribute towards sustainable development.
+
+← yesterday | About Word of the Day • Nominate a word • Leave feedback | tomorrow →
+Wikinews commentary.svg
+Foreign word of the day  in Tuvan
+акы-дуңма • (akı-duñma) noun
+siblings, brothers, sisters
+relatives
+About Foreign Word of the Day • Archive • Nominate a word • Leave feedback
+Notepad icon.png
+
+Behind the scenes
+Community portal
+
+A page containing everything you wanted to know about Wiktionary.
+Discussion rooms
+
+A collection of pages for the discussion of Wiktionary and the words it contains.
+Things to do • Help • Guidelines
+Books-aj.svg aj ashton 01e.svg
+Wiktionaries in other languages
+This is the English-language Wiktionary, where words from all languages are defined in English. For example, see the entry for the French word dictionnaire. To find a French definition of that word, visit the equivalent page in the French Wiktionary.
+
+1,000,000+ entries: 中文 (Chinese) • Français (French) • Deutsch (German) • Malagasy • Русский (Russian)
+
+100,000+: Հայերեն (Armenian) • Català (Catalan) • Čeština (Czech) • Nederlands (Dutch) • Suomi (Finnish) • Ελληνικά (Greek) • Español (Spanish) • Esperanto • Eesti (Estonian) • हिन्दी (Hindi) • Magyar (Hungarian) • Ido • Bahasa Indonesia (Indonesian) • Italiano (Italian) • 日本語 (Japanese) • ಕನ್ನಡ (Kannada) • 한국어 (Korean) • Kurdî / كوردی (Kurdish) • Limburgs (Limburgish) • Lietuvių (Lithuanian) • മലയാളം (Malayalam) • မြန်မာဘာသာ (Burmese) • Norsk Bokmål (Norwegian) • ଓଡ଼ିଆ (Oriya) • فارسى (Persian) • Polski (Polish) • Português (Portuguese) • Română (Romanian) • Srpskohrvatski (Serbo-Croatian) • Svenska (Swedish) • தமிழ் (Tamil) • తెలుగు (Telugu) • ไทย (Thai) • Türkçe (Turkish) • Tiếng Việt (Vietnamese) • Oʻzbekcha / Ўзбекча (Uzbek)
+
+10,000+: Afrikaans • Shqip (Albanian) • العربية (Arabic) • Asturianu (Asturian) • Azərbaycan (Azeri) • Euskara (Basque) • বাংলা (Bengali) • Brezhoneg (Breton) • Български (Bulgarian) • Hrvatski (Croatian) • Dansk (Danish) • Frysk (West Frisian) • Galego (Galician) • ქართული (Georgian) • עברית (Hebrew) • Íslenska (Icelandic) • Basa Jawa (Javanese) • Кыргызча (Kyrgyz) • ລາວ (Lao) • Latina (Latin) • Latviešu (Latvian) • Lombard • Bân-lâm-gú (Min Nan) • ဘာသာမန် (Mon) • Nynorsk (Norwegian) • Occitan • Oromoo (Oromo) • پښتو (Pashto) • ਪੰਜਾਬੀ (Punjabi) • Српски (Serbian) • လိၵ်ႈတႆ (Shan) • Sicilianu (Sicilian) • Simple English • Slovenčina (Slovak) • Kiswahili (Swahili) • Tagalog • Тоҷикӣ (Tajik) • Українська (Ukrainian) • اردو (Urdu) • Volapük • Walon (Walloon) • Cymraeg (Welsh)
+
+1,000+: Armãneashce (Aromanian) • Aymara • Беларуская (Belarusian) • Bosanski (Bosnian) • Bikol • Corsu (Corsican) • Føroyskt (Faroese) • Fiji Hindi • Kalaallisut (Greenlandic) • Avañe'ẽ (Guaraní) • Interlingua • Interlingue • Gaeilge (Irish) • كٲشُر (Kashmiri) • Kaszëbsczi (Kashubian) • қазақша (Kazakh) • ភាសាខ្មែរ (Khmer) • Кыргызча (Kyrgyz) • Lëtzebuergesch (Luxembourgish) • Māori • Plattdüütsch (Low Saxon) • Македонски (Macedonian) • Bahasa Melayu (Malay) • Malti (Maltese) • मराठी (Marathi) • Nahuatl • नेपाली (Nepali) • Li Niha (Nias) • Ænglisc (Old English) • Gàidhlig (Scottish Gaelic) • Tacawit (Shawiya) • سنڌي (Sindhi) • සිංහල (Sinhalese) • Slovenščina (Slovene) • Soomaaliga (Somali) • Hornjoserbsce (Upper Sorbian) • seSotho (Southern Sotho) • Basa Sunda (Sundanese) • Tatarça / Татарча (Tatar) • تركمن / Туркмен (Turkmen) • Uyghurche / ئۇيغۇرچە (Uyghur) • پنجابی (Western Punjabi) • Wollof (Wolof) • isiZulu (Zulu)
+
+100+: አማርኛ (Amharic) • Aragonés (Aragonese) • ᏣᎳᎩ (Cherokee) • Kernewek / Karnuack (Cornish) • ދިވެހިބަސް (Divehi) • ગુજરાતી (Gujarati) • Hausa / هَوُسَ (Hausa) • ʻŌlelo Hawaiʻi (Hawaiian) • ᐃᓄᒃᑎᑐᑦ (Inuktitut) • Ikinyarwanda (Kinyarwanda) • Lingala • Gaelg (Manx) • Монгол (Mongolian) • Runa Simi (Quechua) • Gagana Samoa (Samoan) • Sängö • Setswana • ትግርኛ (Tigrinya) • Tok Pisin • Xitsonga (Tsonga) • ייִדיש (Yiddish)
+
+Meta list + All Wiktionaries
+Other Wikimedia projects
+Wiktionary is run by the Wikimedia Foundation, a non-profit foundation registered in Florida, USA. Wikimedia operates several other multilingual and open-content sister wiki projects:
+
+Wikipedia-logo.png
+Wikipedia
+The free encyclopedia
+
+Wikibooks-logo.png
+Wikibooks
+Free textbooks and manuals
+
+Wikinews-logo.png
+Wikinews
+Free-content news
+
+Wikisource-logo.png
+Wikisource
+The free library
+
+Wikispecies-logo.png
+Wikispecies
+Directory of species
+
+Wikiquote-logo.png
+Wikiquote
+Collection of quotations
+
+Commons-logo.png
+Commons
+Shared media repository
+
+Wikimedia Community Logo.svg
+Meta-Wiki
+Wikimedia project coordination
+
+Wikiversity logo 2017.svg
+Wikiversity
+Free learning resources
+
+Wikivoyage-Logo-v3-icon.svg
+Wikivoyage
+Travel information
+
+Wikidata-logo.svg
+Wikidata
+The free knowledge base
+
+
+Navigation menu
+Not logged in
+Talk
+Contributions
+Preferences
+Create account
+Log in
+Main PageDiscussion
+ReadView sourceHistory
+Search Wiktionary
+Main Page
+Community portal
+Preferences
+Requested entries
+Recent changes
+Random entry
+Help
+Glossary
+Donations
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+MediaWiki
+Meta-Wiki
+Multilingual Wikisource
+Wikispecies
+Wikibooks
+Wikidata
+Wikimania
+Wikinews
+Wikipedia
+Wikiquote
+Wikisource
+Wikiversity
+Wikivoyage
+
+In other languages
+বাংলা
+Català
+Deutsch
+Français
+Հայերեն
+हिन्दी
+Malagasy
+नेपाली
+Русский
+Complete list
+154 more
+Edit links
+If you have time, leave us a note.
+
+This page was last edited on 14 August 2022, at 13:21.
+Text is available under the Creative Commons Attribution-ShareAlike Li
+Welcome to the English-language Wiktionary, a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.
+Wiktionary has grown beyond a standard dictionary and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the definition of a word, but also enough information to really understand it. Thus etymologies, pronunciations, sample quotations, synonyms, antonyms and translations are included.
+Wiktionary is a wiki, which means that you can edit it, and all the content is dual-licensed under both the Creative Commons Attribution-ShareAlike 3.0 Unported License and the GNU Free Documentation License. Before you contribute, you may wish to read through some of our help pages, and bear in mind that we do things quite differently from other wikis. In particular, we have strict layout conventions and inclusion criteria. Learn how to start a page, how to edit entries, experiment in the sandbox and visit our Community Portal to see how you can participate in the development of Wiktionary.
+Writing star.svg
+
+edit · refresh · view
+Word of the day
+for January 24
+mnemonic n
+0:01
+Something (especially a series of ideas, letters, words, etc.) used to help in remembering a thing; a memory aid.
+(computing) The human-readable, textual form of an assembly language instruction, not including operands.
+(obsolete) Synonym of mnemonics (“the study of techniques for remembering anything more easily”)
+mnemonic adj
+
+Especially of a series of ideas, letters, words, etc.: intended to help in remembering.
+Of or relating to mnemonics (“the study of techniques for remembering anything more easily”).
+Of or relating to memory.
+PointingHand.svg Today is the International Day of Education, which is recognized by the United Nations to emphasize the importance of ensuring equitable and inclusive education at all levels so that people may acquire the knowledge and skills needed to participate fully in society and contribute towards sustainable development.
+
+← yesterday | About Word of the Day • Nominate a word • Leave feedback | tomorrow →
+Wikinews commentary.svg
+Foreign word of the day  in Tuvan
+акы-дуңма • (akı-duñma) noun
+siblings, brothers, sisters
+relatives
+About Foreign Word of the Day • Archive • Nominate a word • Leave feedback
+Notepad icon.png
+
+Behind the scenes
+Community portal
+
+A page containing everything you wanted to know about Wiktionary.
+Discussion rooms
+
+A collection of pages for the discussion of Wiktionary and the words it contains.
+Things to do • Help • Guidelines
+Books-aj.svg aj ashton 01e.svg
+Wiktionaries in other languages
+This is the English-language Wiktionary, where words from all languages are defined in English. For example, see the entry for the French word dictionnaire. To find a French definition of that word, visit the equivalent page in the French Wiktionary.
+
+1,000,000+ entries: 中文 (Chinese) • Français (French) • Deutsch (German) • Malagasy • Русский (Russian)
+
+100,000+: Հայերեն (Armenian) • Català (Catalan) • Čeština (Czech) • Nederlands (Dutch) • Suomi (Finnish) • Ελληνικά (Greek) • Español (Spanish) • Esperanto • Eesti (Estonian) • हिन्दी (Hindi) • Magyar (Hungarian) • Ido • Bahasa Indonesia (Indonesian) • Italiano (Italian) • 日本語 (Japanese) • ಕನ್ನಡ (Kannada) • 한국어 (Korean) • Kurdî / كوردی (Kurdish) • Limburgs (Limburgish) • Lietuvių (Lithuanian) • മലയാളം (Malayalam) • မြန်မာဘာသာ (Burmese) • Norsk Bokmål (Norwegian) • ଓଡ଼ିଆ (Oriya) • فارسى (Persian) • Polski (Polish) • Português (Portuguese) • Română (Romanian) • Srpskohrvatski (Serbo-Croatian) • Svenska (Swedish) • தமிழ் (Tamil) • తెలుగు (Telugu) • ไทย (Thai) • Türkçe (Turkish) • Tiếng Việt (Vietnamese) • Oʻzbekcha / Ўзбекча (Uzbek)
+
+10,000+: Afrikaans • Shqip (Albanian) • العربية (Arabic) • Asturianu (Asturian) • Azərbaycan (Azeri) • Euskara (Basque) • বাংলা (Bengali) • Brezhoneg (Breton) • Български (Bulgarian) • Hrvatski (Croatian) • Dansk (Danish) • Frysk (West Frisian) • Galego (Galician) • ქართული (Georgian) • עברית (Hebrew) • Íslenska (Icelandic) • Basa Jawa (Javanese) • Кыргызча (Kyrgyz) • ລາວ (Lao) • Latina (Latin) • Latviešu (Latvian) • Lombard • Bân-lâm-gú (Min Nan) • ဘာသာမန် (Mon) • Nynorsk (Norwegian) • Occitan • Oromoo (Oromo) • پښتو (Pashto) • ਪੰਜਾਬੀ (Punjabi) • Српски (Serbian) • လိၵ်ႈတႆ (Shan) • Sicilianu (Sicilian) • Simple English • Slovenčina (Slovak) • Kiswahili (Swahili) • Tagalog • Тоҷикӣ (Tajik) • Українська (Ukrainian) • اردو (Urdu) • Volapük • Walon (Walloon) • Cymraeg (Welsh)
+
+1,000+: Armãneashce (Aromanian) • Aymara • Беларуская (Belarusian) • Bosanski (Bosnian) • Bikol • Corsu (Corsican) • Føroyskt (Faroese) • Fiji Hindi • Kalaallisut (Greenlandic) • Avañe'ẽ (Guaraní) • Interlingua • Interlingue • Gaeilge (Irish) • كٲشُر (Kashmiri) • Kaszëbsczi (Kashubian) • қазақша (Kazakh) • ភាសាខ្មែរ (Khmer) • Кыргызча (Kyrgyz) • Lëtzebuergesch (Luxembourgish) • Māori • Plattdüütsch (Low Saxon) • Македонски (Macedonian) • Bahasa Melayu (Malay) • Malti (Maltese) • मराठी (Marathi) • Nahuatl • नेपाली (Nepali) • Li Niha (Nias) • Ænglisc (Old English) • Gàidhlig (Scottish Gaelic) • Tacawit (Shawiya) • سنڌي (Sindhi) • සිංහල (Sinhalese) • Slovenščina (Slovene) • Soomaaliga (Somali) • Hornjoserbsce (Upper Sorbian) • seSotho (Southern Sotho) • Basa Sunda (Sundanese) • Tatarça / Татарча (Tatar) • تركمن / Туркмен (Turkmen) • Uyghurche / ئۇيغۇرچە (Uyghur) • پنجابی (Western Punjabi) • Wollof (Wolof) • isiZulu (Zulu)
+
+100+: አማርኛ (Amharic) • Aragonés (Aragonese) • ᏣᎳᎩ (Cherokee) • Kernewek / Karnuack (Cornish) • ދިވެހިބަސް (Divehi) • ગુજરાતી (Gujarati) • Hausa / هَوُسَ (Hausa) • ʻŌlelo Hawaiʻi (Hawaiian) • ᐃᓄᒃᑎᑐᑦ (Inuktitut) • Ikinyarwanda (Kinyarwanda) • Lingala • Gaelg (Manx) • Монгол (Mongolian) • Runa Simi (Quechua) • Gagana Samoa (Samoan) • Sängö • Setswana • ትግርኛ (Tigrinya) • Tok Pisin • Xitsonga (Tsonga) • ייִדיש (Yiddish)
+
+Meta list + All Wiktionaries
+Other Wikimedia projects
+Wiktionary is run by the Wikimedia Foundation, a non-profit foundation registered in Florida, USA. Wikimedia operates several other multilingual and open-content sister wiki projects:
+
+Wikipedia-logo.png
+Wikipedia
+The free encyclopedia
+
+Wikibooks-logo.png
+Wikibooks
+Free textbooks and manuals
+
+Wikinews-logo.png
+Wikinews
+Free-content news
+
+Wikisource-logo.png
+Wikisource
+The free library
+
+Wikispecies-logo.png
+Wikispecies
+Directory of species
+
+Wikiquote-logo.png
+Wikiquote
+Collection of quotations
+
+Commons-logo.png
+Commons
+Shared media repository
+
+Wikimedia Community Logo.svg
+Meta-Wiki
+Wikimedia project coordination
+
+Wikiversity logo 2017.svg
+Wikiversity
+Free learning resources
+
+Wikivoyage-Logo-v3-icon.svg
+Wikivoyage
+Travel information
+
+Wikidata-logo.svg
+Wikidata
+The free knowledge base
+
+
+Navigation menu
+Not logged in
+Talk
+Contributions
+Preferences
+Create account
+Log in
+Main PageDiscussion
+ReadView sourceHistory
+Search Wiktionary
+Main Page
+Community portal
+Preferences
+Requested entries
+Recent changes
+Random entry
+Help
+Glossary
+Donations
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+MediaWiki
+Meta-Wiki
+Multilingual Wikisource
+Wikispecies
+Wikibooks
+Wikidata
+Wikimania
+Wikinews
+Wikipedia
+Wikiquote
+Wikisource
+Wikiversity
+Wikivoyage
+
+In other languages
+বাংলা
+Català
+Deutsch
+Français
+Հայերեն
+हिन्दी
+Malagasy
+नेपाली
+Русский
+Complete list
+154 more
+Edit links
+If you have time, leave us a note.
+
+This page was last edited on 14 August 2022, at 13:21.
+Text is available under the Creative Commons Attribution-ShareAlike Li
+Welcome to the English-language Wiktionary, a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.
+Wiktionary has grown beyond a standard dictionary and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the definition of a word, but also enough information to really understand it. Thus etymologies, pronunciations, sample quotations, synonyms, antonyms and translations are included.
+Wiktionary is a wiki, which means that you can edit it, and all the content is dual-licensed under both the Creative Commons Attribution-ShareAlike 3.0 Unported License and the GNU Free Documentation License. Before you contribute, you may wish to read through some of our help pages, and bear in mind that we do things quite differently from other wikis. In particular, we have strict layout conventions and inclusion criteria. Learn how to start a page, how to edit entries, experiment in the sandbox and visit our Community Portal to see how you can participate in the development of Wiktionary.
+Writing star.svg
+
+edit · refresh · view
+Word of the day
+for January 24
+mnemonic n
+0:01
+Something (especially a series of ideas, letters, words, etc.) used to help in remembering a thing; a memory aid.
+(computing) The human-readable, textual form of an assembly language instruction, not including operands.
+(obsolete) Synonym of mnemonics (“the study of techniques for remembering anything more easily”)
+mnemonic adj
+
+Especially of a series of ideas, letters, words, etc.: intended to help in remembering.
+Of or relating to mnemonics (“the study of techniques for remembering anything more easily”).
+Of or relating to memory.
+PointingHand.svg Today is the International Day of Education, which is recognized by the United Nations to emphasize the importance of ensuring equitable and inclusive education at all levels so that people may acquire the knowledge and skills needed to participate fully in society and contribute towards sustainable development.
+
+← yesterday | About Word of the Day • Nominate a word • Leave feedback | tomorrow →
+Wikinews commentary.svg
+Foreign word of the day  in Tuvan
+акы-дуңма • (akı-duñma) noun
+siblings, brothers, sisters
+relatives
+About Foreign Word of the Day • Archive • Nominate a word • Leave feedback
+Notepad icon.png
+
+Behind the scenes
+Community portal
+
+A page containing everything you wanted to know about Wiktionary.
+Discussion rooms
+
+A collection of pages for the discussion of Wiktionary and the words it contains.
+Things to do • Help • Guidelines
+Books-aj.svg aj ashton 01e.svg
+Wiktionaries in other languages
+This is the English-language Wiktionary, where words from all languages are defined in English. For example, see the entry for the French word dictionnaire. To find a French definition of that word, visit the equivalent page in the French Wiktionary.
+
+1,000,000+ entries: 中文 (Chinese) • Français (French) • Deutsch (German) • Malagasy • Русский (Russian)
+
+100,000+: Հայերեն (Armenian) • Català (Catalan) • Čeština (Czech) • Nederlands (Dutch) • Suomi (Finnish) • Ελληνικά (Greek) • Español (Spanish) • Esperanto • Eesti (Estonian) • हिन्दी (Hindi) • Magyar (Hungarian) • Ido • Bahasa Indonesia (Indonesian) • Italiano (Italian) • 日本語 (Japanese) • ಕನ್ನಡ (Kannada) • 한국어 (Korean) • Kurdî / كوردی (Kurdish) • Limburgs (Limburgish) • Lietuvių (Lithuanian) • മലയാളം (Malayalam) • မြန်မာဘာသာ (Burmese) • Norsk Bokmål (Norwegian) • ଓଡ଼ିଆ (Oriya) • فارسى (Persian) • Polski (Polish) • Português (Portuguese) • Română (Romanian) • Srpskohrvatski (Serbo-Croatian) • Svenska (Swedish) • தமிழ் (Tamil) • తెలుగు (Telugu) • ไทย (Thai) • Türkçe (Turkish) • Tiếng Việt (Vietnamese) • Oʻzbekcha / Ўзбекча (Uzbek)
+
+10,000+: Afrikaans • Shqip (Albanian) • العربية (Arabic) • Asturianu (Asturian) • Azərbaycan (Azeri) • Euskara (Basque) • বাংলা (Bengali) • Brezhoneg (Breton) • Български (Bulgarian) • Hrvatski (Croatian) • Dansk (Danish) • Frysk (West Frisian) • Galego (Galician) • ქართული (Georgian) • עברית (Hebrew) • Íslenska (Icelandic) • Basa Jawa (Javanese) • Кыргызча (Kyrgyz) • ລາວ (Lao) • Latina (Latin) • Latviešu (Latvian) • Lombard • Bân-lâm-gú (Min Nan) • ဘာသာမန် (Mon) • Nynorsk (Norwegian) • Occitan • Oromoo (Oromo) • پښتو (Pashto) • ਪੰਜਾਬੀ (Punjabi) • Српски (Serbian) • လိၵ်ႈတႆ (Shan) • Sicilianu (Sicilian) • Simple English • Slovenčina (Slovak) • Kiswahili (Swahili) • Tagalog • Тоҷикӣ (Tajik) • Українська (Ukrainian) • اردو (Urdu) • Volapük • Walon (Walloon) • Cymraeg (Welsh)
+
+1,000+: Armãneashce (Aromanian) • Aymara • Беларуская (Belarusian) • Bosanski (Bosnian) • Bikol • Corsu (Corsican) • Føroyskt (Faroese) • Fiji Hindi • Kalaallisut (Greenlandic) • Avañe'ẽ (Guaraní) • Interlingua • Interlingue • Gaeilge (Irish) • كٲشُر (Kashmiri) • Kaszëbsczi (Kashubian) • қазақша (Kazakh) • ភាសាខ្មែរ (Khmer) • Кыргызча (Kyrgyz) • Lëtzebuergesch (Luxembourgish) • Māori • Plattdüütsch (Low Saxon) • Македонски (Macedonian) • Bahasa Melayu (Malay) • Malti (Maltese) • मराठी (Marathi) • Nahuatl • नेपाली (Nepali) • Li Niha (Nias) • Ænglisc (Old English) • Gàidhlig (Scottish Gaelic) • Tacawit (Shawiya) • سنڌي (Sindhi) • සිංහල (Sinhalese) • Slovenščina (Slovene) • Soomaaliga (Somali) • Hornjoserbsce (Upper Sorbian) • seSotho (Southern Sotho) • Basa Sunda (Sundanese) • Tatarça / Татарча (Tatar) • تركمن / Туркмен (Turkmen) • Uyghurche / ئۇيغۇرچە (Uyghur) • پنجابی (Western Punjabi) • Wollof (Wolof) • isiZulu (Zulu)
+
+100+: አማርኛ (Amharic) • Aragonés (Aragonese) • ᏣᎳᎩ (Cherokee) • Kernewek / Karnuack (Cornish) • ދިވެހިބަސް (Divehi) • ગુજરાતી (Gujarati) • Hausa / هَوُسَ (Hausa) • ʻŌlelo Hawaiʻi (Hawaiian) • ᐃᓄᒃᑎᑐᑦ (Inuktitut) • Ikinyarwanda (Kinyarwanda) • Lingala • Gaelg (Manx) • Монгол (Mongolian) • Runa Simi (Quechua) • Gagana Samoa (Samoan) • Sängö • Setswana • ትግርኛ (Tigrinya) • Tok Pisin • Xitsonga (Tsonga) • ייִדיש (Yiddish)
+
+Meta list + All Wiktionaries
+Other Wikimedia projects
+Wiktionary is run by the Wikimedia Foundation, a non-profit foundation registered in Florida, USA. Wikimedia operates several other multilingual and open-content sister wiki projects:
+
+Wikipedia-logo.png
+Wikipedia
+The free encyclopedia
+
+Wikibooks-logo.png
+Wikibooks
+Free textbooks and manuals
+
+Wikinews-logo.png
+Wikinews
+Free-content news
+
+Wikisource-logo.png
+Wikisource
+The free library
+
+Wikispecies-logo.png
+Wikispecies
+Directory of species
+
+Wikiquote-logo.png
+Wikiquote
+Collection of quotations
+
+Commons-logo.png
+Commons
+Shared media repository
+
+Wikimedia Community Logo.svg
+Meta-Wiki
+Wikimedia project coordination
+
+Wikiversity logo 2017.svg
+Wikiversity
+Free learning resources
+
+Wikivoyage-Logo-v3-icon.svg
+Wikivoyage
+Travel information
+
+Wikidata-logo.svg
+Wikidata
+The free knowledge base
+
+
+Navigation menu
+Not logged in
+Talk
+Contributions
+Preferences
+Create account
+Log in
+Main PageDiscussion
+ReadView sourceHistory
+Search Wiktionary
+Main Page
+Community portal
+Preferences
+Requested entries
+Recent changes
+Random entry
+Help
+Glossary
+Donations
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+MediaWiki
+Meta-Wiki
+Multilingual Wikisource
+Wikispecies
+Wikibooks
+Wikidata
+Wikimania
+Wikinews
+Wikipedia
+Wikiquote
+Wikisource
+Wikiversity
+Wikivoyage
+
+In other languages
+বাংলা
+Català
+Deutsch
+Français
+Հայերեն
+हिन्दी
+Malagasy
+नेपाली
+Русский
+Complete list
+154 more
+Edit links
+If you have time, leave us a note.
+
+This page was last edited on 14 August 2022, at 13:21.
+Text is available under the Creative Commons Attribution-ShareAlike Li
+Welcome to the English-language Wiktionary, a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.
+Wiktionary has grown beyond a standard dictionary and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the definition of a word, but also enough information to really understand it. Thus etymologies, pronunciations, sample quotations, synonyms, antonyms and translations are included.
+Wiktionary is a wiki, which means that you can edit it, and all the content is dual-licensed under both the Creative Commons Attribution-ShareAlike 3.0 Unported License and the GNU Free Documentation License. Before you contribute, you may wish to read through some of our help pages, and bear in mind that we do things quite differently from other wikis. In particular, we have strict layout conventions and inclusion criteria. Learn how to start a page, how to edit entries, experiment in the sandbox and visit our Community Portal to see how you can participate in the development of Wiktionary.
+Writing star.svg
+
+edit · refresh · view
+Word of the day
+for January 24
+mnemonic n
+0:01
+Something (especially a series of ideas, letters, words, etc.) used to help in remembering a thing; a memory aid.
+(computing) The human-readable, textual form of an assembly language instruction, not including operands.
+(obsolete) Synonym of mnemonics (“the study of techniques for remembering anything more easily”)
+mnemonic adj
+
+Especially of a series of ideas, letters, words, etc.: intended to help in remembering.
+Of or relating to mnemonics (“the study of techniques for remembering anything more easily”).
+Of or relating to memory.
+PointingHand.svg Today is the International Day of Education, which is recognized by the United Nations to emphasize the importance of ensuring equitable and inclusive education at all levels so that people may acquire the knowledge and skills needed to participate fully in society and contribute towards sustainable development.
+
+← yesterday | About Word of the Day • Nominate a word • Leave feedback | tomorrow →
+Wikinews commentary.svg
+Foreign word of the day  in Tuvan
+акы-дуңма • (akı-duñma) noun
+siblings, brothers, sisters
+relatives
+About Foreign Word of the Day • Archive • Nominate a word • Leave feedback
+Notepad icon.png
+
+Behind the scenes
+Community portal
+
+A page containing everything you wanted to know about Wiktionary.
+Discussion rooms
+
+A collection of pages for the discussion of Wiktionary and the words it contains.
+Things to do • Help • Guidelines
+Books-aj.svg aj ashton 01e.svg
+Wiktionaries in other languages
+This is the English-language Wiktionary, where words from all languages are defined in English. For example, see the entry for the French word dictionnaire. To find a French definition of that word, visit the equivalent page in the French Wiktionary.
+
+1,000,000+ entries: 中文 (Chinese) • Français (French) • Deutsch (German) • Malagasy • Русский (Russian)
+
+100,000+: Հայերեն (Armenian) • Català (Catalan) • Čeština (Czech) • Nederlands (Dutch) • Suomi (Finnish) • Ελληνικά (Greek) • Español (Spanish) • Esperanto • Eesti (Estonian) • हिन्दी (Hindi) • Magyar (Hungarian) • Ido • Bahasa Indonesia (Indonesian) • Italiano (Italian) • 日本語 (Japanese) • ಕನ್ನಡ (Kannada) • 한국어 (Korean) • Kurdî / كوردی (Kurdish) • Limburgs (Limburgish) • Lietuvių (Lithuanian) • മലയാളം (Malayalam) • မြန်မာဘာသာ (Burmese) • Norsk Bokmål (Norwegian) • ଓଡ଼ିଆ (Oriya) • فارسى (Persian) • Polski (Polish) • Português (Portuguese) • Română (Romanian) • Srpskohrvatski (Serbo-Croatian) • Svenska (Swedish) • தமிழ் (Tamil) • తెలుగు (Telugu) • ไทย (Thai) • Türkçe (Turkish) • Tiếng Việt (Vietnamese) • Oʻzbekcha / Ўзбекча (Uzbek)
+
+10,000+: Afrikaans • Shqip (Albanian) • العربية (Arabic) • Asturianu (Asturian) • Azərbaycan (Azeri) • Euskara (Basque) • বাংলা (Bengali) • Brezhoneg (Breton) • Български (Bulgarian) • Hrvatski (Croatian) • Dansk (Danish) • Frysk (West Frisian) • Galego (Galician) • ქართული (Georgian) • עברית (Hebrew) • Íslenska (Icelandic) • Basa Jawa (Javanese) • Кыргызча (Kyrgyz) • ລາວ (Lao) • Latina (Latin) • Latviešu (Latvian) • Lombard • Bân-lâm-gú (Min Nan) • ဘာသာမန် (Mon) • Nynorsk (Norwegian) • Occitan • Oromoo (Oromo) • پښتو (Pashto) • ਪੰਜਾਬੀ (Punjabi) • Српски (Serbian) • လိၵ်ႈတႆ (Shan) • Sicilianu (Sicilian) • Simple English • Slovenčina (Slovak) • Kiswahili (Swahili) • Tagalog • Тоҷикӣ (Tajik) • Українська (Ukrainian) • اردو (Urdu) • Volapük • Walon (Walloon) • Cymraeg (Welsh)
+
+1,000+: Armãneashce (Aromanian) • Aymara • Беларуская (Belarusian) • Bosanski (Bosnian) • Bikol • Corsu (Corsican) • Føroyskt (Faroese) • Fiji Hindi • Kalaallisut (Greenlandic) • Avañe'ẽ (Guaraní) • Interlingua • Interlingue • Gaeilge (Irish) • كٲشُر (Kashmiri) • Kaszëbsczi (Kashubian) • қазақша (Kazakh) • ភាសាខ្មែរ (Khmer) • Кыргызча (Kyrgyz) • Lëtzebuergesch (Luxembourgish) • Māori • Plattdüütsch (Low Saxon) • Македонски (Macedonian) • Bahasa Melayu (Malay) • Malti (Maltese) • मराठी (Marathi) • Nahuatl • नेपाली (Nepali) • Li Niha (Nias) • Ænglisc (Old English) • Gàidhlig (Scottish Gaelic) • Tacawit (Shawiya) • سنڌي (Sindhi) • සිංහල (Sinhalese) • Slovenščina (Slovene) • Soomaaliga (Somali) • Hornjoserbsce (Upper Sorbian) • seSotho (Southern Sotho) • Basa Sunda (Sundanese) • Tatarça / Татарча (Tatar) • تركمن / Туркмен (Turkmen) • Uyghurche / ئۇيغۇرچە (Uyghur) • پنجابی (Western Punjabi) • Wollof (Wolof) • isiZulu (Zulu)
+
+100+: አማርኛ (Amharic) • Aragonés (Aragonese) • ᏣᎳᎩ (Cherokee) • Kernewek / Karnuack (Cornish) • ދިވެހިބަސް (Divehi) • ગુજરાતી (Gujarati) • Hausa / هَوُسَ (Hausa) • ʻŌlelo Hawaiʻi (Hawaiian) • ᐃᓄᒃᑎᑐᑦ (Inuktitut) • Ikinyarwanda (Kinyarwanda) • Lingala • Gaelg (Manx) • Монгол (Mongolian) • Runa Simi (Quechua) • Gagana Samoa (Samoan) • Sängö • Setswana • ትግርኛ (Tigrinya) • Tok Pisin • Xitsonga (Tsonga) • ייִדיש (Yiddish)
+
+Meta list + All Wiktionaries
+Other Wikimedia projects
+Wiktionary is run by the Wikimedia Foundation, a non-profit foundation registered in Florida, USA. Wikimedia operates several other multilingual and open-content sister wiki projects:
+
+Wikipedia-logo.png
+Wikipedia
+The free encyclopedia
+
+Wikibooks-logo.png
+Wikibooks
+Free textbooks and manuals
+
+Wikinews-logo.png
+Wikinews
+Free-content news
+
+Wikisource-logo.png
+Wikisource
+The free library
+
+Wikispecies-logo.png
+Wikispecies
+Directory of species
+
+Wikiquote-logo.png
+Wikiquote
+Collection of quotations
+
+Commons-logo.png
+Commons
+Shared media repository
+
+Wikimedia Community Logo.svg
+Meta-Wiki
+Wikimedia project coordination
+
+Wikiversity logo 2017.svg
+Wikiversity
+Free learning resources
+
+Wikivoyage-Logo-v3-icon.svg
+Wikivoyage
+Travel information
+
+Wikidata-logo.svg
+Wikidata
+The free knowledge base
+
+
+Navigation menu
+Not logged in
+Talk
+Contributions
+Preferences
+Create account
+Log in
+Main PageDiscussion
+ReadView sourceHistory
+Search Wiktionary
+Main Page
+Community portal
+Preferences
+Requested entries
+Recent changes
+Random entry
+Help
+Glossary
+Donations
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+MediaWiki
+Meta-Wiki
+Multilingual Wikisource
+Wikispecies
+Wikibooks
+Wikidata
+Wikimania
+Wikinews
+Wikipedia
+Wikiquote
+Wikisource
+Wikiversity
+Wikivoyage
+
+In other languages
+বাংলা
+Català
+Deutsch
+Français
+Հայերեն
+हिन्दी
+Malagasy
+नेपाली
+Русский
+Complete list
+154 more
+Edit links
+If you have time, leave us a note.
+
+This page was last edited on 14 August 2022, at 13:21.
+Text is available under the Creative Commons Attribution-ShareAlike Li
+Welcome to the English-language Wiktionary, a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.
+Wiktionary has grown beyond a standard dictionary and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the definition of a word, but also enough information to really understand it. Thus etymologies, pronunciations, sample quotations, synonyms, antonyms and translations are included.
+Wiktionary is a wiki, which means that you can edit it, and all the content is dual-licensed under both the Creative Commons Attribution-ShareAlike 3.0 Unported License and the GNU Free Documentation License. Before you contribute, you may wish to read through some of our help pages, and bear in mind that we do things quite differently from other wikis. In particular, we have strict layout conventions and inclusion criteria. Learn how to start a page, how to edit entries, experiment in the sandbox and visit our Community Portal to see how you can participate in the development of Wiktionary.
+Writing star.svg
+
+edit · refresh · view
+Word of the day
+for January 24
+mnemonic n
+0:01
+Something (especially a series of ideas, letters, words, etc.) used to help in remembering a thing; a memory aid.
+(computing) The human-readable, textual form of an assembly language instruction, not including operands.
+(obsolete) Synonym of mnemonics (“the study of techniques for remembering anything more easily”)
+mnemonic adj
+
+Especially of a series of ideas, letters, words, etc.: intended to help in remembering.
+Of or relating to mnemonics (“the study of techniques for remembering anything more easily”).
+Of or relating to memory.
+PointingHand.svg Today is the International Day of Education, which is recognized by the United Nations to emphasize the importance of ensuring equitable and inclusive education at all levels so that people may acquire the knowledge and skills needed to participate fully in society and contribute towards sustainable development.
+
+← yesterday | About Word of the Day • Nominate a word • Leave feedback | tomorrow →
+Wikinews commentary.svg
+Foreign word of the day  in Tuvan
+акы-дуңма • (akı-duñma) noun
+siblings, brothers, sisters
+relatives
+About Foreign Word of the Day • Archive • Nominate a word • Leave feedback
+Notepad icon.png
+
+Behind the scenes
+Community portal
+
+A page containing everything you wanted to know about Wiktionary.
+Discussion rooms
+
+A collection of pages for the discussion of Wiktionary and the words it contains.
+Things to do • Help • Guidelines
+Books-aj.svg aj ashton 01e.svg
+Wiktionaries in other languages
+This is the English-language Wiktionary, where words from all languages are defined in English. For example, see the entry for the French word dictionnaire. To find a French definition of that word, visit the equivalent page in the French Wiktionary.
+
+1,000,000+ entries: 中文 (Chinese) • Français (French) • Deutsch (German) • Malagasy • Русский (Russian)
+
+100,000+: Հայերեն (Armenian) • Català (Catalan) • Čeština (Czech) • Nederlands (Dutch) • Suomi (Finnish) • Ελληνικά (Greek) • Español (Spanish) • Esperanto • Eesti (Estonian) • हिन्दी (Hindi) • Magyar (Hungarian) • Ido • Bahasa Indonesia (Indonesian) • Italiano (Italian) • 日本語 (Japanese) • ಕನ್ನಡ (Kannada) • 한국어 (Korean) • Kurdî / كوردی (Kurdish) • Limburgs (Limburgish) • Lietuvių (Lithuanian) • മലയാളം (Malayalam) • မြန်မာဘာသာ (Burmese) • Norsk Bokmål (Norwegian) • ଓଡ଼ିଆ (Oriya) • فارسى (Persian) • Polski (Polish) • Português (Portuguese) • Română (Romanian) • Srpskohrvatski (Serbo-Croatian) • Svenska (Swedish) • தமிழ் (Tamil) • తెలుగు (Telugu) • ไทย (Thai) • Türkçe (Turkish) • Tiếng Việt (Vietnamese) • Oʻzbekcha / Ўзбекча (Uzbek)
+
+10,000+: Afrikaans • Shqip (Albanian) • العربية (Arabic) • Asturianu (Asturian) • Azərbaycan (Azeri) • Euskara (Basque) • বাংলা (Bengali) • Brezhoneg (Breton) • Български (Bulgarian) • Hrvatski (Croatian) • Dansk (Danish) • Frysk (West Frisian) • Galego (Galician) • ქართული (Georgian) • עברית (Hebrew) • Íslenska (Icelandic) • Basa Jawa (Javanese) • Кыргызча (Kyrgyz) • ລາວ (Lao) • Latina (Latin) • Latviešu (Latvian) • Lombard • Bân-lâm-gú (Min Nan) • ဘာသာမန် (Mon) • Nynorsk (Norwegian) • Occitan • Oromoo (Oromo) • پښتو (Pashto) • ਪੰਜਾਬੀ (Punjabi) • Српски (Serbian) • လိၵ်ႈတႆ (Shan) • Sicilianu (Sicilian) • Simple English • Slovenčina (Slovak) • Kiswahili (Swahili) • Tagalog • Тоҷикӣ (Tajik) • Українська (Ukrainian) • اردو (Urdu) • Volapük • Walon (Walloon) • Cymraeg (Welsh)
+
+1,000+: Armãneashce (Aromanian) • Aymara • Беларуская (Belarusian) • Bosanski (Bosnian) • Bikol • Corsu (Corsican) • Føroyskt (Faroese) • Fiji Hindi • Kalaallisut (Greenlandic) • Avañe'ẽ (Guaraní) • Interlingua • Interlingue • Gaeilge (Irish) • كٲشُر (Kashmiri) • Kaszëbsczi (Kashubian) • қазақша (Kazakh) • ភាសាខ្មែរ (Khmer) • Кыргызча (Kyrgyz) • Lëtzebuergesch (Luxembourgish) • Māori • Plattdüütsch (Low Saxon) • Македонски (Macedonian) • Bahasa Melayu (Malay) • Malti (Maltese) • मराठी (Marathi) • Nahuatl • नेपाली (Nepali) • Li Niha (Nias) • Ænglisc (Old English) • Gàidhlig (Scottish Gaelic) • Tacawit (Shawiya) • سنڌي (Sindhi) • සිංහල (Sinhalese) • Slovenščina (Slovene) • Soomaaliga (Somali) • Hornjoserbsce (Upper Sorbian) • seSotho (Southern Sotho) • Basa Sunda (Sundanese) • Tatarça / Татарча (Tatar) • تركمن / Туркмен (Turkmen) • Uyghurche / ئۇيغۇرچە (Uyghur) • پنجابی (Western Punjabi) • Wollof (Wolof) • isiZulu (Zulu)
+
+100+: አማርኛ (Amharic) • Aragonés (Aragonese) • ᏣᎳᎩ (Cherokee) • Kernewek / Karnuack (Cornish) • ދިވެހިބަސް (Divehi) • ગુજરાતી (Gujarati) • Hausa / هَوُسَ (Hausa) • ʻŌlelo Hawaiʻi (Hawaiian) • ᐃᓄᒃᑎᑐᑦ (Inuktitut) • Ikinyarwanda (Kinyarwanda) • Lingala • Gaelg (Manx) • Монгол (Mongolian) • Runa Simi (Quechua) • Gagana Samoa (Samoan) • Sängö • Setswana • ትግርኛ (Tigrinya) • Tok Pisin • Xitsonga (Tsonga) • ייִדיש (Yiddish)
+
+Meta list + All Wiktionaries
+Other Wikimedia projects
+Wiktionary is run by the Wikimedia Foundation, a non-profit foundation registered in Florida, USA. Wikimedia operates several other multilingual and open-content sister wiki projects:
+
+Wikipedia-logo.png
+Wikipedia
+The free encyclopedia
+
+Wikibooks-logo.png
+Wikibooks
+Free textbooks and manuals
+
+Wikinews-logo.png
+Wikinews
+Free-content news
+
+Wikisource-logo.png
+Wikisource
+The free library
+
+Wikispecies-logo.png
+Wikispecies
+Directory of species
+
+Wikiquote-logo.png
+Wikiquote
+Collection of quotations
+
+Commons-logo.png
+Commons
+Shared media repository
+
+Wikimedia Community Logo.svg
+Meta-Wiki
+Wikimedia project coordination
+
+Wikiversity logo 2017.svg
+Wikiversity
+Free learning resources
+
+Wikivoyage-Logo-v3-icon.svg
+Wikivoyage
+Travel information
+
+Wikidata-logo.svg
+Wikidata
+The free knowledge base
+
+
+Navigation menu
+Not logged in
+Talk
+Contributions
+Preferences
+Create account
+Log in
+Main PageDiscussion
+ReadView sourceHistory
+Search Wiktionary
+Main Page
+Community portal
+Preferences
+Requested entries
+Recent changes
+Random entry
+Help
+Glossary
+Donations
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+MediaWiki
+Meta-Wiki
+Multilingual Wikisource
+Wikispecies
+Wikibooks
+Wikidata
+Wikimania
+Wikinews
+Wikipedia
+Wikiquote
+Wikisource
+Wikiversity
+Wikivoyage
+
+In other languages
+বাংলা
+Català
+Deutsch
+Français
+Հայերեն
+हिन्दी
+Malagasy
+नेपाली
+Русский
+Complete list
+154 more
+Edit links
+If you have time, leave us a note.
+
+This page was last edited on 14 August 2022, at 13:21.
+Text is available under the Creative Commons Attribution-ShareAlike Li
+Welcome to the English-language Wiktionary, a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.
+Wiktionary has grown beyond a standard dictionary and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the definition of a word, but also enough information to really understand it. Thus etymologies, pronunciations, sample quotations, synonyms, antonyms and translations are included.
+Wiktionary is a wiki, which means that you can edit it, and all the content is dual-licensed under both the Creative Commons Attribution-ShareAlike 3.0 Unported License and the GNU Free Documentation License. Before you contribute, you may wish to read through some of our help pages, and bear in mind that we do things quite differently from other wikis. In particular, we have strict layout conventions and inclusion criteria. Learn how to start a page, how to edit entries, experiment in the sandbox and visit our Community Portal to see how you can participate in the development of Wiktionary.
+Writing star.svg
+
+edit · refresh · view
+Word of the day
+for January 24
+mnemonic n
+0:01
+Something (especially a series of ideas, letters, words, etc.) used to help in remembering a thing; a memory aid.
+(computing) The human-readable, textual form of an assembly language instruction, not including operands.
+(obsolete) Synonym of mnemonics (“the study of techniques for remembering anything more easily”)
+mnemonic adj
+
+Especially of a series of ideas, letters, words, etc.: intended to help in remembering.
+Of or relating to mnemonics (“the study of techniques for remembering anything more easily”).
+Of or relating to memory.
+PointingHand.svg Today is the International Day of Education, which is recognized by the United Nations to emphasize the importance of ensuring equitable and inclusive education at all levels so that people may acquire the knowledge and skills needed to participate fully in society and contribute towards sustainable development.
+
+← yesterday | About Word of the Day • Nominate a word • Leave feedback | tomorrow →
+Wikinews commentary.svg
+Foreign word of the day  in Tuvan
+акы-дуңма • (akı-duñma) noun
+siblings, brothers, sisters
+relatives
+About Foreign Word of the Day • Archive • Nominate a word • Leave feedback
+Notepad icon.png
+
+Behind the scenes
+Community portal
+
+A page containing everything you wanted to know about Wiktionary.
+Discussion rooms
+
+A collection of pages for the discussion of Wiktionary and the words it contains.
+Things to do • Help • Guidelines
+Books-aj.svg aj ashton 01e.svg
+Wiktionaries in other languages
+This is the English-language Wiktionary, where words from all languages are defined in English. For example, see the entry for the French word dictionnaire. To find a French definition of that word, visit the equivalent page in the French Wiktionary.
+
+1,000,000+ entries: 中文 (Chinese) • Français (French) • Deutsch (German) • Malagasy • Русский (Russian)
+
+100,000+: Հայերեն (Armenian) • Català (Catalan) • Čeština (Czech) • Nederlands (Dutch) • Suomi (Finnish) • Ελληνικά (Greek) • Español (Spanish) • Esperanto • Eesti (Estonian) • हिन्दी (Hindi) • Magyar (Hungarian) • Ido • Bahasa Indonesia (Indonesian) • Italiano (Italian) • 日本語 (Japanese) • ಕನ್ನಡ (Kannada) • 한국어 (Korean) • Kurdî / كوردی (Kurdish) • Limburgs (Limburgish) • Lietuvių (Lithuanian) • മലയാളം (Malayalam) • မြန်မာဘာသာ (Burmese) • Norsk Bokmål (Norwegian) • ଓଡ଼ିଆ (Oriya) • فارسى (Persian) • Polski (Polish) • Português (Portuguese) • Română (Romanian) • Srpskohrvatski (Serbo-Croatian) • Svenska (Swedish) • தமிழ் (Tamil) • తెలుగు (Telugu) • ไทย (Thai) • Türkçe (Turkish) • Tiếng Việt (Vietnamese) • Oʻzbekcha / Ўзбекча (Uzbek)
+
+10,000+: Afrikaans • Shqip (Albanian) • العربية (Arabic) • Asturianu (Asturian) • Azərbaycan (Azeri) • Euskara (Basque) • বাংলা (Bengali) • Brezhoneg (Breton) • Български (Bulgarian) • Hrvatski (Croatian) • Dansk (Danish) • Frysk (West Frisian) • Galego (Galician) • ქართული (Georgian) • עברית (Hebrew) • Íslenska (Icelandic) • Basa Jawa (Javanese) • Кыргызча (Kyrgyz) • ລາວ (Lao) • Latina (Latin) • Latviešu (Latvian) • Lombard • Bân-lâm-gú (Min Nan) • ဘာသာမန် (Mon) • Nynorsk (Norwegian) • Occitan • Oromoo (Oromo) • پښتو (Pashto) • ਪੰਜਾਬੀ (Punjabi) • Српски (Serbian) • လိၵ်ႈတႆ (Shan) • Sicilianu (Sicilian) • Simple English • Slovenčina (Slovak) • Kiswahili (Swahili) • Tagalog • Тоҷикӣ (Tajik) • Українська (Ukrainian) • اردو (Urdu) • Volapük • Walon (Walloon) • Cymraeg (Welsh)
+
+1,000+: Armãneashce (Aromanian) • Aymara • Беларуская (Belarusian) • Bosanski (Bosnian) • Bikol • Corsu (Corsican) • Føroyskt (Faroese) • Fiji Hindi • Kalaallisut (Greenlandic) • Avañe'ẽ (Guaraní) • Interlingua • Interlingue • Gaeilge (Irish) • كٲشُر (Kashmiri) • Kaszëbsczi (Kashubian) • қазақша (Kazakh) • ភាសាខ្មែរ (Khmer) • Кыргызча (Kyrgyz) • Lëtzebuergesch (Luxembourgish) • Māori • Plattdüütsch (Low Saxon) • Македонски (Macedonian) • Bahasa Melayu (Malay) • Malti (Maltese) • मराठी (Marathi) • Nahuatl • नेपाली (Nepali) • Li Niha (Nias) • Ænglisc (Old English) • Gàidhlig (Scottish Gaelic) • Tacawit (Shawiya) • سنڌي (Sindhi) • සිංහල (Sinhalese) • Slovenščina (Slovene) • Soomaaliga (Somali) • Hornjoserbsce (Upper Sorbian) • seSotho (Southern Sotho) • Basa Sunda (Sundanese) • Tatarça / Татарча (Tatar) • تركمن / Туркмен (Turkmen) • Uyghurche / ئۇيغۇرچە (Uyghur) • پنجابی (Western Punjabi) • Wollof (Wolof) • isiZulu (Zulu)
+
+100+: አማርኛ (Amharic) • Aragonés (Aragonese) • ᏣᎳᎩ (Cherokee) • Kernewek / Karnuack (Cornish) • ދިވެހިބަސް (Divehi) • ગુજરાતી (Gujarati) • Hausa / هَوُسَ (Hausa) • ʻŌlelo Hawaiʻi (Hawaiian) • ᐃᓄᒃᑎᑐᑦ (Inuktitut) • Ikinyarwanda (Kinyarwanda) • Lingala • Gaelg (Manx) • Монгол (Mongolian) • Runa Simi (Quechua) • Gagana Samoa (Samoan) • Sängö • Setswana • ትግርኛ (Tigrinya) • Tok Pisin • Xitsonga (Tsonga) • ייִדיש (Yiddish)
+
+Meta list + All Wiktionaries
+Other Wikimedia projects
+Wiktionary is run by the Wikimedia Foundation, a non-profit foundation registered in Florida, USA. Wikimedia operates several other multilingual and open-content sister wiki projects:
+
+Wikipedia-logo.png
+Wikipedia
+The free encyclopedia
+
+Wikibooks-logo.png
+Wikibooks
+Free textbooks and manuals
+
+Wikinews-logo.png
+Wikinews
+Free-content news
+
+Wikisource-logo.png
+Wikisource
+The free library
+
+Wikispecies-logo.png
+Wikispecies
+Directory of species
+
+Wikiquote-logo.png
+Wikiquote
+Collection of quotations
+
+Commons-logo.png
+Commons
+Shared media repository
+
+Wikimedia Community Logo.svg
+Meta-Wiki
+Wikimedia project coordination
+
+Wikiversity logo 2017.svg
+Wikiversity
+Free learning resources
+
+Wikivoyage-Logo-v3-icon.svg
+Wikivoyage
+Travel information
+
+Wikidata-logo.svg
+Wikidata
+The free knowledge base
+
+
+Navigation menu
+Not logged in
+Talk
+Contributions
+Preferences
+Create account
+Log in
+Main PageDiscussion
+ReadView sourceHistory
+Search Wiktionary
+Main Page
+Community portal
+Preferences
+Requested entries
+Recent changes
+Random entry
+Help
+Glossary
+Donations
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+MediaWiki
+Meta-Wiki
+Multilingual Wikisource
+Wikispecies
+Wikibooks
+Wikidata
+Wikimania
+Wikinews
+Wikipedia
+Wikiquote
+Wikisource
+Wikiversity
+Wikivoyage
+
+In other languages
+বাংলা
+Català
+Deutsch
+Français
+Հայերեն
+हिन्दी
+Malagasy
+नेपाली
+Русский
+Complete list
+154 more
+Edit links
+If you have time, leave us a note.
+
+This page was last edited on 14 August 2022, at 13:21.
+Text is available under the Creative Commons Attribution-ShareAlike Li
+Welcome to the English-language Wiktionary, a collaborative project to produce a free-content multilingual dictionary. It aims to describe all words of all languages using definitions and descriptions in English.
+Wiktionary has grown beyond a standard dictionary and now includes a thesaurus, a rhyme guide, phrase books, language statistics and extensive appendices. We aim to include not only the definition of a word, but also enough information to really understand it. Thus etymologies, pronunciations, sample quotations, synonyms, antonyms and translations are included.
+Wiktionary is a wiki, which means that you can edit it, and all the content is dual-licensed under both the Creative Commons Attribution-ShareAlike 3.0 Unported License and the GNU Free Documentation License. Before you contribute, you may wish to read through some of our help pages, and bear in mind that we do things quite differently from other wikis. In particular, we have strict layout conventions and inclusion criteria. Learn how to start a page, how to edit entries, experiment in the sandbox and visit our Community Portal to see how you can participate in the development of Wiktionary.
+Writing star.svg
+
+edit · refresh · view
+Word of the day
+for January 24
+mnemonic n
+0:01
+Something (especially a series of ideas, letters, words, etc.) used to help in remembering a thing; a memory aid.
+(computing) The human-readable, textual form of an assembly language instruction, not including operands.
+(obsolete) Synonym of mnemonics (“the study of techniques for remembering anything more easily”)
+mnemonic adj
+
+Especially of a series of ideas, letters, words, etc.: intended to help in remembering.
+Of or relating to mnemonics (“the study of techniques for remembering anything more easily”).
+Of or relating to memory.
+PointingHand.svg Today is the International Day of Education, which is recognized by the United Nations to emphasize the importance of ensuring equitable and inclusive education at all levels so that people may acquire the knowledge and skills needed to participate fully in society and contribute towards sustainable development.
+
+← yesterday | About Word of the Day • Nominate a word • Leave feedback | tomorrow →
+Wikinews commentary.svg
+Foreign word of the day  in Tuvan
+акы-дуңма • (akı-duñma) noun
+siblings, brothers, sisters
+relatives
+About Foreign Word of the Day • Archive • Nominate a word • Leave feedback
+Notepad icon.png
+
+Behind the scenes
+Community portal
+
+A page containing everything you wanted to know about Wiktionary.
+Discussion rooms
+
+A collection of pages for the discussion of Wiktionary and the words it contains.
+Things to do • Help • Guidelines
+Books-aj.svg aj ashton 01e.svg
+Wiktionaries in other languages
+This is the English-language Wiktionary, where words from all languages are defined in English. For example, see the entry for the French word dictionnaire. To find a French definition of that word, visit the equivalent page in the French Wiktionary.
+
+1,000,000+ entries: 中文 (Chinese) • Français (French) • Deutsch (German) • Malagasy • Русский (Russian)
+
+100,000+: Հայերեն (Armenian) • Català (Catalan) • Čeština (Czech) • Nederlands (Dutch) • Suomi (Finnish) • Ελληνικά (Greek) • Español (Spanish) • Esperanto • Eesti (Estonian) • हिन्दी (Hindi) • Magyar (Hungarian) • Ido • Bahasa Indonesia (Indonesian) • Italiano (Italian) • 日本語 (Japanese) • ಕನ್ನಡ (Kannada) • 한국어 (Korean) • Kurdî / كوردی (Kurdish) • Limburgs (Limburgish) • Lietuvių (Lithuanian) • മലയാളം (Malayalam) • မြန်မာဘာသာ (Burmese) • Norsk Bokmål (Norwegian) • ଓଡ଼ିଆ (Oriya) • فارسى (Persian) • Polski (Polish) • Português (Portuguese) • Română (Romanian) • Srpskohrvatski (Serbo-Croatian) • Svenska (Swedish) • தமிழ் (Tamil) • తెలుగు (Telugu) • ไทย (Thai) • Türkçe (Turkish) • Tiếng Việt (Vietnamese) • Oʻzbekcha / Ўзбекча (Uzbek)
+
+10,000+: Afrikaans • Shqip (Albanian) • العربية (Arabic) • Asturianu (Asturian) • Azərbaycan (Azeri) • Euskara (Basque) • বাংলা (Bengali) • Brezhoneg (Breton) • Български (Bulgarian) • Hrvatski (Croatian) • Dansk (Danish) • Frysk (West Frisian) • Galego (Galician) • ქართული (Georgian) • עברית (Hebrew) • Íslenska (Icelandic) • Basa Jawa (Javanese) • Кыргызча (Kyrgyz) • ລາວ (Lao) • Latina (Latin) • Latviešu (Latvian) • Lombard • Bân-lâm-gú (Min Nan) • ဘာသာမန် (Mon) • Nynorsk (Norwegian) • Occitan • Oromoo (Oromo) • پښتو (Pashto) • ਪੰਜਾਬੀ (Punjabi) • Српски (Serbian) • လိၵ်ႈတႆ (Shan) • Sicilianu (Sicilian) • Simple English • Slovenčina (Slovak) • Kiswahili (Swahili) • Tagalog • Тоҷикӣ (Tajik) • Українська (Ukrainian) • اردو (Urdu) • Volapük • Walon (Walloon) • Cymraeg (Welsh)
+
+1,000+: Armãneashce (Aromanian) • Aymara • Беларуская (Belarusian) • Bosanski (Bosnian) • Bikol • Corsu (Corsican) • Føroyskt (Faroese) • Fiji Hindi • Kalaallisut (Greenlandic) • Avañe'ẽ (Guaraní) • Interlingua • Interlingue • Gaeilge (Irish) • كٲشُر (Kashmiri) • Kaszëbsczi (Kashubian) • қазақша (Kazakh) • ភាសាខ្មែរ (Khmer) • Кыргызча (Kyrgyz) • Lëtzebuergesch (Luxembourgish) • Māori • Plattdüütsch (Low Saxon) • Македонски (Macedonian) • Bahasa Melayu (Malay) • Malti (Maltese) • मराठी (Marathi) • Nahuatl • नेपाली (Nepali) • Li Niha (Nias) • Ænglisc (Old English) • Gàidhlig (Scottish Gaelic) • Tacawit (Shawiya) • سنڌي (Sindhi) • සිංහල (Sinhalese) • Slovenščina (Slovene) • Soomaaliga (Somali) • Hornjoserbsce (Upper Sorbian) • seSotho (Southern Sotho) • Basa Sunda (Sundanese) • Tatarça / Татарча (Tatar) • تركمن / Туркмен (Turkmen) • Uyghurche / ئۇيغۇرچە (Uyghur) • پنجابی (Western Punjabi) • Wollof (Wolof) • isiZulu (Zulu)
+
+100+: አማርኛ (Amharic) • Aragonés (Aragonese) • ᏣᎳᎩ (Cherokee) • Kernewek / Karnuack (Cornish) • ދިވެހިބަސް (Divehi) • ગુજરાતી (Gujarati) • Hausa / هَوُسَ (Hausa) • ʻŌlelo Hawaiʻi (Hawaiian) • ᐃᓄᒃᑎᑐᑦ (Inuktitut) • Ikinyarwanda (Kinyarwanda) • Lingala • Gaelg (Manx) • Монгол (Mongolian) • Runa Simi (Quechua) • Gagana Samoa (Samoan) • Sängö • Setswana • ትግርኛ (Tigrinya) • Tok Pisin • Xitsonga (Tsonga) • ייִדיש (Yiddish)
+
+Meta list + All Wiktionaries
+Other Wikimedia projects
+Wiktionary is run by the Wikimedia Foundation, a non-profit foundation registered in Florida, USA. Wikimedia operates several other multilingual and open-content sister wiki projects:
+
+Wikipedia-logo.png
+Wikipedia
+The free encyclopedia
+
+Wikibooks-logo.png
+Wikibooks
+Free textbooks and manuals
+
+Wikinews-logo.png
+Wikinews
+Free-content news
+
+Wikisource-logo.png
+Wikisource
+The free library
+
+Wikispecies-logo.png
+Wikispecies
+Directory of species
+
+Wikiquote-logo.png
+Wikiquote
+Collection of quotations
+
+Commons-logo.png
+Commons
+Shared media repository
+
+Wikimedia Community Logo.svg
+Meta-Wiki
+Wikimedia project coordination
+
+Wikiversity logo 2017.svg
+Wikiversity
+Free learning resources
+
+Wikivoyage-Logo-v3-icon.svg
+Wikivoyage
+Travel information
+
+Wikidata-logo.svg
+Wikidata
+The free knowledge base
+
+
+Navigation menu
+Not logged in
+Talk
+Contributions
+Preferences
+Create account
+Log in
+Main PageDiscussion
+ReadView sourceHistory
+Search Wiktionary
+Main Page
+Community portal
+Preferences
+Requested entries
+Recent changes
+Random entry
+Help
+Glossary
+Donations
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Print/export
+Create a book
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+MediaWiki
+Meta-Wiki
+Multilingual Wikisource
+Wikispecies
+Wikibooks
+Wikidata
+Wikimania
+Wikinews
+Wikipedia
+Wikiquote
+Wikisource
+Wikiversity
+Wikivoyage
+
+In other languages
+বাংলা
+Català
+Deutsch
+Français
+Հայերեն
+हिन्दी
+Malagasy
+नेपाली
+Русский
+Complete list
+154 more
+Edit links
+If you have time, leave us a note.
+
+This page was last edited on 14 August 2022, at 13:21.
+Text is available under the Creative Commons Attribution-ShareAlike Li
