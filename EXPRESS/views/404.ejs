@@ -1,28 +1,18 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <meta charset="utf-8">
-    <title>Learning Node</title>
-</head>
+<%- include("./partials/head.ejs") %>
 
-<body>
-    <nav>
-        <div class="site-title">
-            <a href="/">
-                <h1>Blog Roshan</h1>
-            </a>
-            <p>A roshan hero site</p>
-        </div>
-        <ul>
-            <li><a href="/">Blogs</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/blogs/create">New Blog</a></li>
-        </ul>
-    </nav>
-    <div class="not-found content">
-        OOPS, page not found :)
-    </div>
-</body>
+
+    <body>
+        <%- include("./partials/nav.ejs") %>
+
+            <div class="not-found content">
+                OOPS, page not found :)
+            </div>
+
+            <%- include("./partials/footer.ejs") %>
+
+    </body>
 
 </html>

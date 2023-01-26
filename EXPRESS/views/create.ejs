@@ -1,36 +1,25 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <meta charset="utf-8">
-    <title>Learning Node</title>
-</head>
+<%- include("./partials/head.ejs") %>
 
-<body>
-    <nav>
-        <div class="site-title">
-            <a href="/">
-                <h1>Blog Roshan</h1>
-            </a>
-            <p>A roshan hero site</p>
-        </div>
-        <ul>
-            <li><a href="/">Blogs</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/blogs/create">New Blog</a></li>
-        </ul>
-    </nav>
-    <div class="create-blog content">
-        <form action="">
-            <label for="title">Blog title:</label>
-            <input type="text" id="text" required>
-            <label for="snippet">Blog snippet:</label>
-            <input type="text" id="snippet" required>
-            <label for="body">Blog body: </label>
-            <textarea required id="body" cols="20" rows="3"></textarea>
-            <button>submit</button>
-        </form>
-    </div>
-</body>
+
+    <body>
+        <%- include("./partials/nav.ejs") %>
+
+            <div class="create-blog content">
+                <form action="">
+                    <label for="title">Blog title:</label>
+                    <input type="text" id="text" required>
+                    <label for="snippet">Blog snippet:</label>
+                    <input type="text" id="snippet" required>
+                    <label for="body">Blog body: </label>
+                    <textarea required id="body" cols="20" rows="3"></textarea>
+                    <button>submit</button>
+                </form>
+            </div>
+
+            <%- include("./partials/footer.ejs") %>
+    </body>
 
 </html>

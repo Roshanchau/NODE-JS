@@ -1,31 +1,21 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-    <meta charset="utf-8">
-    <title>Learning Node</title>
-</head>
+//despite of hard coding the head html we have simply used the ejs file and included in this file.
+<%- include("./partials/head.ejs") %>
 
-<body>
-    <nav>
-        <div class="site-title">
-            <a href="/">
-                <h1>Blog Roshan</h1>
-            </a>
-            <p>A roshan hero site</p>
-        </div>
-        <ul>
-            <li><a href="/">Blogs</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/blogs/create">New Blog</a></li>
-        </ul>
-    </nav>
-    <div class="about content">
-        <h2>About us</h2>
-        <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, sit!</P>
-        <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, sit!</P>
-        <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, sit!</P>
-    </div>
-</body>
+
+    <body>
+        <%- include("./partials/nav.ejs") %>
+
+            <div class="about content">
+                <h2>About us</h2>
+                <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, sit!</P>
+                <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, sit!</P>
+                <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, sit!</P>
+            </div>
+
+            <%- include("./partials/footer.ejs") %>
+    </body>
 
 </html>

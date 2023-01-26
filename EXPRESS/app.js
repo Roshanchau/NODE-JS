@@ -16,18 +16,30 @@ app.get("/", (req, res) => {
   // just like the res.write() method  but here we get the contentType inbuit .
   //   res.send("<p>HELLO home page</p>");
   //   res.sendFile("./views/index.html", { root: __dirname });
-  res.render("index");
+
+  const blogs = [
+    { title: "who is she", snippet: "lorem ipsum 1fkdsajflsdjfdksl fjsljfd " },
+    {
+      title: "best of the best",
+      snippet: "lorem ipsum 1fkdsajflsdjfdksl fjsljfd ",
+    },
+    {
+      title: "math mathi mathi mathi",
+      snippet: "lorem ipsum 1fkdsajflsdjfdksl fjsljfd ",
+    },
+  ];
+  res.render("index", { title: "Home", blogs });
 });
 
 //respond to the get request at the url "/about"
 app.get("/about", (req, res) => {
   //   res.send("<p>HELLO about page</p>");
   //   res.sendFile("./views/about.html", { root: __dirname });
-  res.render("about");
+  res.render("about", { title: "about" });
 });
 
 app.get("/blogs/create", (re1, res) => {
-  res.render("create");
+  res.render("create", { title: "create a new blog" });
 });
 
 //redirects
@@ -38,5 +50,5 @@ app.get("/blogs/create", (re1, res) => {
 
 //404 page
 app.use((req, res) => {
-  res.status(404).render("404");
+  res.status(404).render("404", { title: "404" });
 });
