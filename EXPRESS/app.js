@@ -1,5 +1,6 @@
 // this returns a function called express
 const express = require("express");
+const morgan = require("morgan");
 
 // express app
 //we are just invoking the express function.
@@ -11,6 +12,24 @@ app.set("view engine", "ejs");
 //listening to a request to the express appp.
 app.listen(3000);
 
+//middleware & static files
+app.use(express.static("public")); //we can acess any static files in the public folder
+
+app.use(morgan("dev"));
+
+// app.use((req, res, next) => {
+//   //middleware between req and response
+//   console.log("new request made");
+//   console.log("host:", req.hostname);
+//   console.log("path:", req.path);
+//   console.log("method:", req.hostname);
+//   next(); // move from the middleware to the next function app.get
+// });
+
+// app.use((req, res, next) => {
+//   console.log("In to the next middleware");
+//   next();
+// });
 //responding to a request. just like we did in the node js(server js) we route to the url here .
 app.get("/", (req, res) => {
   // just like the res.write() method  but here we get the contentType inbuit .
