@@ -2,6 +2,7 @@
 const express = require("express");
 const morgan = require("morgan");
 const mongoose = require("mongoose");
+const Blog = require("./models/blog");
 
 // express app
 //we are just invoking the express function.
@@ -24,6 +25,45 @@ app.use(express.static("public")); //we can acess any static files in the public
 
 app.use(morgan("dev"));
 
+// mongoose and mongo sandbox routes
+// so we have created a new route and sent a req as well as got the response here when the call back function fires, we have created a new blog using the Blog we have imported the we have used the save method to save the data into the data base and then since it is a async task so it returns a promise  which takes certain time and so we can use the .then method so that it returns the result as a promise and the we have sent it as a response using blog.then method
+
+// app.get("/add-blog", (req, res) => {
+//   const blog = new Blog({
+//     title: "new blog2",
+//     snippet: " about my new blog",
+//     body: "more about my blog",
+//   });
+
+//   blog
+//     .save()
+//     .then((result) => {
+//       res.send(result);
+//     })
+//     .catch((err) => {
+//       console.log(err);
+//     });
+// });
+
+// app.get("/all-blogs", (req, res) => {
+//   Blog.find()
+//     .then((result) => {
+//       res.send(result);
+//     })
+//     .catch((err) => {
+//       console.log(err);
+//     });
+// });
+
+// app.get("/single-blog", (req, res) => {
+//   Blog.findById("63d6ba4b3eae8e19b05411d3")
+//     .then((result) => {
+//       res.send(result);
+//     })
+//     .catch((err) => {
+//       console.log(err);
+//     });
+// });
 // app.use((req, res, next) => {
 //   //middleware between req and response
 //   console.log("new request made");
@@ -43,18 +83,20 @@ app.get("/", (req, res) => {
   //   res.send("<p>HELLO home page</p>");
   //   res.sendFile("./views/index.html", { root: __dirname });
 
-  const blogs = [
-    { title: "who is she", snippet: "lorem ipsum 1fkdsajflsdjfdksl fjsljfd " },
-    {
-      title: "best of the best",
-      snippet: "lorem ipsum 1fkdsajflsdjfdksl fjsljfd ",
-    },
-    {
-      title: "math mathi mathi mathi",
-      snippet: "lorem ipsum 1fkdsajflsdjfdksl fjsljfd ",
-    },
-  ];
-  res.render("index", { title: "Home", blogs });
+  // const blogs = [
+  //   { title: "who is she", snippet: "lorem ipsum 1fkdsajflsdjfdksl fjsljfd " },
+  //   {
+  //     title: "best of the best",
+  //     snippet: "lorem ipsum 1fkdsajflsdjfdksl fjsljfd ",
+  //   },
+  //   {
+  //     title: "math mathi mathi mathi",
+  //     snippet: "lorem ipsum 1fkdsajflsdjfdksl fjsljfd ",
+  //   },
+  // ];
+  // res.render("index", { title: "Home", blogs });
+
+  res.redirect("/blogs");
 });
 
 //respond to the get request at the url "/about"
@@ -62,6 +104,18 @@ app.get("/about", (req, res) => {
   //   res.send("<p>HELLO about page</p>");
   //   res.sendFile("./views/about.html", { root: __dirname });
   res.render("about", { title: "about" });
+});
+
+//blog routes
+app.get("/blogs", (req, res) => {
+  Blog.find()
+    .sort({ createdAt: -1 })
+    .then((result) => {
+      res.render("index", { title: "All Blogs", blogs: result });
+    })
+    .catch((err) => {
+      console.log(err);
+    });
 });
 
 app.get("/blogs/create", (re1, res) => {
