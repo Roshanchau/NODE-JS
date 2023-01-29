@@ -1,16 +1,23 @@
 // this returns a function called express
 const express = require("express");
 const morgan = require("morgan");
+const mongoose = require("mongoose");
 
 // express app
 //we are just invoking the express function.
 const app = express();
 
+//connect to mongodb
+const dbURI =
+  "mongodb+srv://RoshanChau11:cr7chaudhary@noderoshan.a8gbrsg.mongodb.net/Nodetuts?retryWrites=true&w=majority";
+
+mongoose
+  .connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
+  .then((result) => app.listen(3000))
+  .catch((err) => console.log(err));
+
 //register view engine
 app.set("view engine", "ejs");
-
-//listening to a request to the express appp.
-app.listen(3000);
 
 //middleware & static files
 app.use(express.static("public")); //we can acess any static files in the public folder
