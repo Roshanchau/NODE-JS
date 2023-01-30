@@ -2,7 +2,7 @@
 const express = require("express");
 const morgan = require("morgan");
 const mongoose = require("mongoose");
-const Blog = require("./models/blog");
+const blogRoutes = require("./routes/blogRoutes");
 
 // express app
 //we are just invoking the express function.
@@ -31,22 +31,22 @@ app.use(morgan("dev"));
 // mongoose and mongo sandbox routes
 // so we have created a new route and sent a req as well as got the response here when the call back function fires, we have created a new blog using the Blog we have imported the we have used the save method to save the data into the data base and then since it is a async task so it returns a promise  which takes certain time and so we can use the .then method so that it returns the result as a promise and the we have sent it as a response using blog.then method
 
-// app.get("/add-blog", (req, res) => {
-//   const blog = new Blog({
-//     title: "new blog2",
-//     snippet: " about my new blog",
-//     body: "more about my blog",
-//   });
+app.get("/add-blog", (req, res) => {
+  const blog = new Blog({
+    title: "who are you",
+    snippet: " about my new blog",
+    body: "more about my blog",
+  });
 
-//   blog
-//     .save()
-//     .then((result) => {
-//       res.send(result);
-//     })
-//     .catch((err) => {
-//       console.log(err);
-//     });
-// });
+  blog
+    .save()
+    .then((result) => {
+      res.send(result);
+    })
+    .catch((err) => {
+      console.log(err);
+    });
+});
 
 // app.get("/all-blogs", (req, res) => {
 //   Blog.find()
@@ -110,67 +110,7 @@ app.get("/about", (req, res) => {
 });
 
 //blog routes
-
-app.post("/blogs", (req, res) => {
-  // console.log(req.body);
-  const blog = new Blog(req.body);
-
-  blog
-    .save()
-    .then((result) => {
-      res.redirect("/blogs");
-    })
-    .catch((err) => {
-      console.log(err);
-    });
-});
-app.get("/blogs", (req, res) => {
-  Blog.find()
-    .sort({ createdAt: -1 })
-    .then((result) => {
-      res.render("index", { title: "All Blogs", blogs: result });
-    })
-    .catch((err) => {
-      console.log(err);
-    });
-});
-
-// Make sure you place the blogs/create GET route ABOVE the /blogs/:id GET route in the code. Otherwise express will fire the /blogs/:id handler for requests to /blogs/create.
-app.get("/blogs/create", (re1, res) => {
-  res.render("create", { title: "create a new blog" });
-});
-
-//route parameters
-// anything that is variable in the routes like id are called route paremeters.
-app.get("/blogs/:id", (req, res) => {
-  const id = req.params.id;
-  // console.log(id);
-  Blog.findById(id)
-    .then((result) => {
-      res.render("details", { blog: result, title: "Blog details" });
-    })
-    .catch((err) => {
-      console.log(err);
-    });
-});
-
-app.delete("/blogs/:id", (req, res) => {
-  const id = req.params.id;
-
-  Blog.findByIdAndDelete(id)
-    .then((result) => {
-      res.json({ redirect: "/blogs" });
-    })
-    .catch((err) => {
-      console.log(err);
-    });
-});
-
-//redirects
-
-// app.get("/about-me", (req, res) => {
-//   res.redirect("/about");
-// });
+app.use("/blogs", blogRoutes);
 
 //404 page
 app.use((req, res) => {
