@@ -9,13 +9,14 @@
         <%- include("./partials/nav.ejs") %>
 
             <div class="create-blog content">
-                <form action="">
+                <!-- if the user clicks on the submit button the a post method is sent to the url /blog -->
+                <form action="/blog" method="POST">
                     <label for="title">Blog title:</label>
-                    <input type="text" id="text" required>
+                    <input type="text" id="text" name="title" required>
                     <label for="snippet">Blog snippet:</label>
-                    <input type="text" id="snippet" required>
+                    <input type="text" id="snippet" name="snippet" required>
                     <label for="body">Blog body: </label>
-                    <textarea required id="body" cols="20" rows="3"></textarea>
+                    <textarea required id="body" name="body" cols="20" rows="3"></textarea>
                     <button>submit</button>
                 </form>
             </div>
