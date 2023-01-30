@@ -120,7 +120,7 @@ app.get("/blogs", (req, res) => {
     });
 });
 
-app.post("/blog", (req, res) => {
+app.post("/blogs", (req, res) => {
   // console.log(req.body);
   const blog = new Blog(req.body);
 
@@ -134,8 +134,23 @@ app.post("/blog", (req, res) => {
     });
 });
 
+// Make sure you place the blogs/create GET route ABOVE the /blogs/:id GET route in the code. Otherwise express will fire the /blogs/:id handler for requests to /blogs/create.
 app.get("/blogs/create", (re1, res) => {
   res.render("create", { title: "create a new blog" });
+});
+
+//route parameters
+// anything that is variable in the routes like id are called route paremeters.
+app.get("/blogs/:id", (req, res) => {
+  const id = req.params.id;
+  // console.log(id);
+  Blog.findById("id")
+    .then((result) => {
+      res.render("details", { blog: result, title: "Blog details" });
+    })
+    .catch((err) => {
+      console.log(err);
+    });
 });
 
 //redirects
